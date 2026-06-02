@@ -14,13 +14,17 @@
 >
 > *- a) registrace Ústavem, jde-li o humánní léčivý přípravek, nebo Veterinárním ústavem, jde-li o veterinární léčivý přípravek, nebo*
 >
-> *- b) registrace centralizovaným postupem podle kapitoly III oddílu 1 nařízení o veterinárních léčivých přípravcích nebo jiného přímo použitelného předpisu Evropské unie.*
+> *- b) registrace centralizovaným postupem podle kapitoly III oddílu 1 nařízení o veterinárních léčivých přípravcích nebo jiného přímo použitelného předpisu Evropské unie24).*
 >
 > *Pokud byla humánnímu léčivému přípravku již udělena registrace podle písmene a) nebo b), musí být pro jakékoliv další síly, lékové formy a cesty podání udělena registrace v souladu s písmenem a) nebo b). Všechny tyto registrace se označují jako souhrnná registrace.*
 >
 > *(2) Registraci nepodléhají*
 >
-> *- a) léčivé přípravky připravené v lékárně nebo na pracovištích, kde lze připravovat léčivé přípravky podle § 79 [individuální příprava, magistraliter a oficinální receptura],*
+> *- a) léčivé přípravky připravené v lékárně nebo na pracovištích, kde lze připravovat léčivé přípravky podle § 79*
+>
+> *- 1. podle lékařského předpisu pro jednotlivého pacienta,*
+>
+> *- 2. v souladu s Českým lékopisem či na základě technologického předpisu a určené k přímému výdeji pacientům v lékárně, kde se příprava uskutečnila, nebo v lékárně, která je oprávněna je od této lékárny odebírat podle § 79 odst. 9, nebo určené k přímému výdeji veterinárnímu lékaři nebo chovateli zvířat, nebo určené k přímému použití u poskytovatele zdravotních služeb, pro něhož se příprava uskutečnila,*
 >
 > *- b) léčivé přípravky určené pro účely výzkumné a vývojové,*
 >
@@ -30,13 +34,41 @@
 >
 > *- e) plná krev, plazma nebo krevní buňky lidského původu a humánní transfuzní přípravky, s výjimkou plazmy vyrobené metodou zahrnující průmyslový postup,*
 >
-> *- f)–k) další specifické výjimky (autogenní vakcíny veterinární i humánní, radiofarmaka připravená in‑house, LP pro moderní terapii v rámci nemocniční výjimky, transfuzní přípravky veterinární, speciální veterinární léčebné programy).*
+> *- f) biologické veterinární léčivé přípravky obsahující autologní nebo alogenní buňky nebo tkáně splňující podmínky podle § 68c,*
+>
+> *- g) veterinární autogenní vakcíny,*
+>
+> *- h) radiofarmaka připravená v souladu s pokyny držitele rozhodnutí o registrace výhradně z registrovaných radionuklidových generátorů, kitů nebo radionuklidových prekursorů pro bezprostřední použití na pracovištích nukleární medicíny poskytovatelů zdravotních služeb oprávněných vykonávat činnost podle atomového zákona,*
+>
+> *- i) léčivé přípravky pro moderní terapii povolené v rámci nemocniční výjimky,*
+>
+> *- j) veterinární transfuzní přípravky splňující podmínky podle § 68a a 68b,*
+>
+> *- k) veterinární léčivé přípravky za podmínek vymezených povolením speciálního veterinárního léčebného programu.*
+>
+> *(3) Registrace podle odstavce 1 se požaduje i pro radionuklidové generátory, kity pro radionuklidy, radionuklidové prekurzory radiofarmak a průmyslově vyráběná radiofarmaka.*
 >
 > *(4) Pro účely registrace humánních léčivých přípravků se rozumí*
 >
 > *- a) referenčním humánním léčivým přípravkem léčivý přípravek registrovaný ve smyslu odstavce 1 a na základě žádosti podané podle § 26,*
 >
-> *- b) generikem léčivý přípravek, který má shodné kvalitativní a kvantitativní složení, pokud jde o léčivé látky, a shodnou lékovou formu s referenčním léčivým přípravkem a u kterého byla [...] prokázána bioekvivalence s referenčním léčivým přípravkem příslušnými studiemi biologické dostupnosti [...]*
+> *- b) generikem léčivý přípravek, který má shodné kvalitativní a kvantitativní složení, pokud jde o léčivé látky, a shodnou lékovou formu s referenčním léčivým přípravkem a u kterého byla, s výjimkou případů, kdy lze doložit, že generikum splňuje příslušná kritéria stanovená příslušnými pokyny Komise a agentury, prokázána bioekvivalence s referenčním léčivým přípravkem příslušnými studiemi biologické dostupnosti; různé soli, estery, ethery, izomery, směsi izomerů, komplexy nebo deriváty léčivé látky se považují za tutéž léčivou látku, pokud se významně neodlišují vlastnostmi týkajícími se bezpečnosti, popřípadě účinnosti; různé perorální lékové formy s okamžitým uvolňováním se považují za jednu a tutéž lékovou formu.*
+>
+> *(5) Požadavky na registraci veterinárních léčivých přípravků podléhajících nařízení o veterinárních léčivých přípravcích se řídí tímto zákonem, nestanoví-li nařízení o veterinárních léčivých přípravcích, prováděcí akty Komise a akty Komise v přenesené pravomoci upravující požadavky v oblasti registrace veterinárních léčivých přípravků vydané podle tohoto nařízení jinak.*
+>
+> *(6) Jde-li o veterinární léčivé přípravky, kterými jsou*
+>
+> *- a) léčivé přípravky určené výhradně pro zvířata v zájmových chovech, kterými jsou akvarijní zvířata, zvířata chovaná v zahradních jezírkách, okrasní ptáci, poštovní holubi, terarijní zvířata, drobní hlodavci, fretky a králíci, pokud v souladu s čl. 5 odst. 6 nařízení o veterinárních léčivých přípravcích není jejich výdej vázán na předpis veterinárního lékaře,*
+>
+> *- b) zvykové rostlinné veterinární léčivé přípravky, nebo*
+>
+> *- c) veterinární radionuklidové generátory, veterinární kity pro radionuklidy, veterinární radionuklidové prekurzory radiofarmak a průmyslově vyráběná radiofarmaka,*
+>
+> *použijí se pro jejich registraci ustanovení tohoto zákona.*
+>
+> *(7) Na veterinární léčivé přípravky podle odstavce 6 se použijí § 27 odst. 7 až 10 a § 40 odst. 2 až 6 obdobně.*
+>
+> *Žádost o registraci*
 
 **Výklad:**
 
@@ -94,49 +126,79 @@ Léčivé přípravky pro moderní terapii (Advanced Therapy Medicinal Products 
 
 > **§ 26**
 >
-> *(1) Žádost o registraci podávají fyzické nebo právnické osoby (dále jen „žadatel o registraci") jednotlivě pro každou lékovou formu i sílu léčivého přípravku Ústavu, jde-li o humánní léčivý přípravek, nebo Veterinárnímu ústavu, jde-li o veterinární léčivý přípravek.*
+> *(1) Žádost o registraci podávají fyzické nebo právnické osoby (dále jen „žadatel o registraci“) jednotlivě pro každou lékovou formu i sílu léčivého přípravku Ústavu, jde-li o humánní léčivý přípravek, nebo Veterinárnímu ústavu, jde-li o veterinární léčivý přípravek.*
 >
-> *(4) Registrace může být udělena pouze žadateli o registraci, který má bydliště nebo je usazen na území některého z členských států.*
+> *(2) Žádost podle odstavce 1 se Ústavu nebo Veterinárnímu ústavu nepředkládá v případě stanoveném § 25 odst. 1 písm. b).*
+>
+> *(3) V případě, že žádost o registraci téhož humánního léčivého přípravku se kromě České republiky předkládá v jiném členském státě, postupuje se v souladu s ustanoveními o vzájemném uznávání registrací. Pro veterinární léčivé přípravky, které podléhají registraci podle nařízení o veterinárních léčivých přípravcích, se pro případ podle věty první použijí příslušná ustanovení nařízení o veterinárních léčivých přípravcích. Pro veterinární léčivé přípravky, které podléhají registraci podle § 25 odst. 6, se ustanovení tohoto zákona o vzájemném uznávání registrací nepoužijí.*
+>
+> *(4) Registrace může být udělena pouze žadateli o registraci, který má bydliště nebo je usazen21) na území některého z členských států.*
 >
 > *(5) Se žádostí o registraci musí být předloženy tyto údaje a dokumentace:*
 >
 > *- a) název léčivého přípravku,*
 >
-> *- b) kvalitativní a kvantitativní údaje o všech složkách léčivého přípravku [...],*
+> *- b) kvalitativní a kvantitativní údaje o všech složkách léčivého přípravku s uvedením mezinárodního nechráněného názvu doporučeného Světovou zdravotnickou organizací, pokud takový název existuje, nebo s uvedením příslušného chemického názvu a údaj, zda léčivý přípravek obsahuje návykovou látku nebo uvedenou látku kategorie 1 podle přímo použitelného předpisu Evropské unie upravujícího prekursory drog40),*
 >
-> *- c) hodnocení potenciálního rizika [...] pro životní prostředí [...],*
+> *- c) hodnocení potenciálního rizika, které představuje léčivý přípravek pro životní prostředí a případná specifická opatření k omezení takového rizika,*
 >
 > *- d) popis způsobu výroby,*
 >
 > *- e) léčebné indikace, kontraindikace a nežádoucí účinky,*
 >
-> *- f) dávkování, léková forma, způsob a cesta podání [...],*
+> *- f) dávkování, léková forma, způsob a cesta podání a předpokládaná doba použitelnosti; jde-li o veterinární léčivý přípravek, uvede se dávkování pro všechny druhy zvířat, pro které je daný léčivý přípravek určen,*
 >
-> *- g) [bezpečnostní opatření, environmentální rizika],*
+> *- g) důvody pro preventivní a bezpečnostní opatření, pokud je třeba je provést při uchovávání léčivého přípravku, jeho podání pacientům nebo zvířatům a likvidaci odpadu, společně s poukázáním na jakákoli možná rizika představovaná léčivým přípravkem pro životní prostředí; jde-li o veterinární léčivý přípravek, poukáže se rovněž na všechna možná rizika spojená s léčivým přípravkem pro zdraví člověka, zvířat nebo rostlin,*
 >
 > *- h) popis kontrolních metod použitých výrobcem,*
 >
-> *- i) písemné potvrzení, že výrobce léčivého přípravku ověřil prostřednictvím auditů, že výrobce léčivé látky dodržuje správnou výrobní praxi [...],*
+> *- i) písemné potvrzení, že výrobce léčivého přípravku ověřil prostřednictvím auditů, že výrobce léčivé látky dodržuje správnou výrobní praxi a pokyny podle § 64 písm. l), jde-li o humánní léčivý přípravek; toto písemné potvrzení musí obsahovat datum provedení auditu a prohlášení, že výsledek auditu potvrzuje, že výroba probíhá v souladu se správnou výrobní praxí a těmito pokyny,*
 >
 > *- j) výsledky*
 >
-> *  - 1. farmaceutických zkoušek (fyzikálně-chemické, biologické či mikrobiologické),*
+> *- 1. farmaceutických zkoušek (fyzikálně-chemické, biologické či mikrobiologické),*
 >
-> *  - 2. předklinických zkoušek (toxikologické a farmakologické),*
+> *- 2. předklinických zkoušek (toxikologické a farmakologické),*
 >
-> *  - 3. klinických hodnocení,*
+> *- 3. klinických hodnocení,*
 >
-> *- k) shrnutí farmakovigilančního systému žadatele o registraci [QPPV, místo PSMF],*
+> *- k) shrnutí farmakovigilančního systému žadatele o registraci, jehož součástí je*
 >
-> *- l) plán řízení rizik (RMP) popisující systém řízení rizik [...],*
+> *- 1. prokázání skutečnosti, že žadatel o registraci má k dispozici kvalifikovanou osobu odpovědnou za farmakovigilanci,*
 >
-> *- m) čestné prohlášení potvrzující, že klinická hodnocení provedená mimo Evropskou unii splňují etické požadavky rovnocenné požadavkům stanoveným v § 51 a násl. [...],*
+> *- 2. uvedení členského státu, v němž tato kvalifikovaná osoba má bydliště a plní své úkoly,*
 >
-> *- n) návrh souhrnu údajů o přípravku (SmPC), vzor vnějšího a vnitřního obalu léčivého přípravku společně s návrhem příbalové informace (PIL) [...],*
+> *- 3. uvedení kontaktních údajů této kvalifikované osoby,*
 >
-> *- o) identifikace všech výrobců a míst výroby [...],*
+> *- 4. prohlášení podepsané žadatelem o registraci o tom, že má nezbytné prostředky pro plnění úkolů a zajištění odpovědnosti v oblasti farmakovigilance,*
 >
-> *- p) kopie všech zahraničních registrací a rozhodnutí o zamítnutí [...].*
+> *- 5. uvedení místa, kde je uchováván základní dokument farmakovigilančního systému pro dotyčný léčivý přípravek,*
+>
+> *- l) plán řízení rizik popisující systém řízení rizik, který žadatel o registraci pro dotčený léčivý přípravek zavede, spolu se souhrnem tohoto plánu; jde-li o veterinární léčivý přípravek, předkládá se plán řízení rizik pouze v případě, kdy rizika spojená s veterinárním přípravkem nelze řídit pomocí jiných opatření či podmínek stanovených v oblasti registrace nebo farmakovigilance veterinárního přípravku,*
+>
+> *- m) čestné prohlášení potvrzující, že klinická hodnocení provedená mimo Evropskou unii splňují etické požadavky rovnocenné požadavkům stanoveným v § 51 a násl., jde-li o humánní léčivý přípravek,*
+>
+> *- n) návrh souhrnu údajů o přípravku, vzor vnějšího a vnitřního obalu léčivého přípravku společně s návrhem příbalové informace; jde-li o humánní léčivý přípravek, stanoví prováděcí právní předpis případy a způsob předložení závěrů posouzení čitelnosti a srozumitelnosti příbalové informace provedené ve spolupráci s cílovými skupinami pacientů,*
+>
+> *- o) identifikace všech výrobců a míst výroby a doklady o tom, že každý výrobce má povolení k výrobě léčivých přípravků,*
+>
+> *- p) kopie:*
+>
+> *- 1. všech rozhodnutí o registraci příslušného léčivého přípravku získaných v jiném členském státě nebo ve třetí zemi, souhrn bezpečnostních údajů, včetně údajů obsažených v pravidelně aktualizovaných zprávách o bezpečnosti, jsou-li k dispozici, a v hlášeních podezření na nežádoucí účinky, společně se seznamem členských států, v nichž je podána a posuzována žádost o registraci,*
+>
+> *- 2. souhrnu údajů o přípravku navrženého žadatelem o registraci nebo schváleného příslušným orgánem dotyčného členského státu a příbalové informace navržené žadatelem o registraci nebo schválené příslušným orgánem dotyčného členského státu,*
+>
+> *- 3. jakéhokoliv rozhodnutí o zamítnutí registrace v Evropské unii nebo ve třetí zemi s uvedením důvodů takového rozhodnutí,*
+>
+> *- q) doklad o náhradě výdajů podle § 112, je-li požadována předem,*
+>
+> *- r) kopie dokladů o stanovení humánního léčivého přípravku jako léčivého přípravku pro vzácná onemocnění42), společně s kopií příslušného stanoviska agentury, jde-li o léčivý přípravek pro vzácná onemocnění.*
+>
+> *(6) K dokumentům a údajům, které se týkají výsledků farmaceutických a předklinických zkoušek a klinických hodnocení uvedených v odstavci 5 písm. j) bodech 1 až 3, se v případě humánního léčivého přípravku přiloží podrobné souhrny podle § 27 odst. 12.*
+>
+> *(7) Při sestavování údajů a dokumentace k žádosti o registraci žadatel o registraci humánního léčivého přípravku dále vychází z pokynů Komise a agentury. Návrh souhrnu údajů o přípravku, návrh příbalové informace a návrhy označení na vnějším a vnitřním obalu léčivého přípravku se předkládají v českém jazyce, pokud Ústav nebo Veterinární ústav nerozhodne podle § 38 jinak; ostatní dokumentace může být předložena i v anglickém nebo slovenském jazyce, případně v jiném jazyce, který Ústav nebo Veterinární ústav po dohodě s žadatelem o registraci určí. Dojde-li v průběhu registračního řízení ke změnám předložených údajů a dokumentace, zejména údajů uvedených v odstavci 5 písm. p), musí žadatel o registraci humánního léčivého přípravku tyto změny neprodleně oznámit Ústavu nebo Veterinárnímu ústavu. V případě rozsáhlých změn údajů a dokumentace Ústav nebo Veterinární ústav může požadovat předložení nové žádosti o registraci a řízení o původní žádosti zastaví. Prováděcí právní předpis stanoví bližší vymezení obsahu a úpravy údajů a dokumentace k žádosti.*
+>
+> *(8) K žádosti o registraci veterinárního léčivého přípravku předkládané podle nařízení o veterinárních léčivých přípravcích v těch případech, kdy rozhodnutí o registraci vydává Veterinární ústav, se kromě údajů a dokumentace podle tohoto nařízení předloží doklad o náhradě výdajů podle § 112.*
 
 **Výklad:**
 
@@ -191,13 +253,33 @@ Klíčová záruka **extraterritorial ethics**: žadatel musí prohlásit, že k
 
 > **§ 27**
 >
-> *(1) Žadatel o registraci humánního léčivého přípravku není povinen předložit výsledky předklinických zkoušek a klinických hodnocení, pokud může prokázat, že léčivý přípravek je generikem referenčního léčivého přípravku, který je nebo byl registrován [...] po dobu nejméně 8 let v členském státě nebo postupem podle přímo použitelného předpisu Evropské unie. [...] Generikum registrované podle tohoto ustanovení nesmí být uvedeno na trh, dokud neuplyne 10 let od první registrace referenčního přípravku v kterémkoli členském státě nebo v Evropské unii.*
+> *(1) Žadatel o registraci humánního léčivého přípravku není povinen předložit výsledky předklinických zkoušek a klinických hodnocení, pokud může prokázat, že léčivý přípravek je generikem referenčního léčivého přípravku, který je nebo byl registrován podle předpisů Evropské unie po dobu nejméně 8 let v členském státě nebo postupem podle přímo použitelného předpisu Evropské unie24). V takovém případě se nepředkládají údaje podle § 26 odst. 5 písm. j) bodů2 a 3 a není dotčena právní ochrana průmyslového vlastnictví a obchodního tajemství. Generikum registrované podle tohoto ustanovení nesmí být uvedeno na trh, dokud neuplyne 10 let od první registrace referenčního přípravku v kterémkoli členském státě nebo v Evropské unii. Tyto lhůty činí pouze 6 let v případě, že žádost o registraci takového referenčního přípravku byla předložena přede dnem 30. října 2005 a nejde o referenční přípravek registrovaný postupem podle přímo použitelného předpisu Evropské unie24).*
 >
 > *(2) Lhůta 10 let podle odstavce 1 se rozhodnutím prodlouží pro humánní léčivé přípravky nejvýše na 11 let, jestliže držitel rozhodnutí o registraci referenčního přípravku získá během prvních 8 let z těchto 10 let registraci pro jednu nebo více nových léčebných indikací, které jsou při vědeckém hodnocení před jejich registrací považovány za významný klinický přínos ve srovnání se stávajícími léčebnými postupy.*
 >
-> *(5) Pokud humánní biologický léčivý přípravek, který je podobný referenčnímu biologickému léčivému přípravku, nesplňuje podmínky vymezení generika [...], musí být předloženy výsledky příslušných předklinických zkoušek nebo klinických hodnocení týkající se těchto podmínek. [...]*
+> *(3) Ustanovení odstavce 1 věty prvé a druhé se také použije, jestliže referenční humánní léčivý přípravek nebyl registrován v členském státě, ve kterém je žádost o registraci generika předložena. V tomto případě uvede žadatel o registraci v žádosti název členského státu, ve kterém je nebo byl referenční humánní léčivý přípravek registrován. Je-li žádost o registraci předložena v České republice, Ústav vyžádá od příslušného orgánu jiného členského státu potvrzení, že referenční humánní léčivý přípravek je nebo byl registrován, a úplné složení referenčního přípravku, případně další dokumentaci. Pokud je takové potvrzení vyžádáno orgánem jiného členského státu, Ústav předá takové potvrzení a další informace ve lhůtě 1 měsíce od doručení vyžádání.*
 >
-> *(7) Žadatel o registraci není povinen předložit výsledky předklinických zkoušek nebo klinických hodnocení, pokud může prokázat, že léčivé látky léčivého přípravku mají dobře zavedené léčebné použití v Evropské unii po dobu alespoň 10 let s uznanou účinností a přijatelnou úrovní bezpečnosti [...]*
+> *(4) V případech, kdy humánní léčivý přípravek není generikem nebo pokud nelze bioekvivalenci prokázat studiemi biologické dostupnosti nebo v případě změn léčivé látky nebo léčivých látek, léčebných indikací, síly, lékové formy nebo cesty podání ve srovnání s referenčním léčivým přípravkem, se Ústavu předloží výsledky příslušných předklinických zkoušek nebo klinických hodnocení. Pokud se různé soli, estery, ethery, izomery, směsi izomerů, komplexy nebo deriváty léčivé látky vlastnostmi týkajícími se bezpečnosti, popřípadě účinnosti významně odlišují, musí žadatel předložit doplňující údaje poskytující důkaz o bezpečnosti, popřípadě účinnosti různých solí, esterů nebo derivátů dané léčivé látky.*
+>
+> *(5) Pokud humánní biologický léčivý přípravek, který je podobný referenčnímu biologickému léčivému přípravku, nesplňuje podmínky vymezení generika, zejména kvůli rozdílům v surovinách nebo rozdílům v postupech výroby takového biologického léčivého přípravku a referenčního humánního biologického léčivého přípravku, musí být předloženy výsledky příslušných předklinických zkoušek nebo klinických hodnocení týkající se těchto podmínek. Výsledky jiných předklinických zkoušek a klinických hodnocení obsažených v registrační dokumentaci referenčního humánního biologického léčivého přípravku se nepředkládají. Prováděcí právní předpis stanoví rozsah doplňujících údajů, které je třeba předložit. Tyto údaje musí být v souladu se souvisejícími pokyny Komise a agentury.*
+>
+> *(6) Jedná-li se o žádost o registraci nové indikace humánního léčivého přípravku obsahujícího dobře zavedenou látku a byly provedeny významné předklinické zkoušky a klinické studie ve vztahu k této nové indikaci, nesmí vzít Ústav v úvahu výsledky těchto studií při posuzování žádosti podle odstavce 1 předložené jiným žadatelem o registraci po dobu 1 roku od udělení registrace pro jiný léčivý přípravek s danou indikací; dobu ochrany podle předchozí části věty nelze opakovat.*
+>
+> *(7) Žadatel o registraci není povinen předložit výsledky předklinických zkoušek nebo klinických hodnocení, pokud může prokázat, že léčivé látky léčivého přípravku mají dobře zavedené léčebné použití v Evropské unii po dobu alespoň 10 let s uznanou účinností a přijatelnou úrovní bezpečnosti; rozsah a způsob doložení dobře zavedeného léčebného použití stanoví prováděcí právní předpis. V takovém případě se nepředkládají údaje podle § 26 odst. 5 písm. j) bodů 2 a 3, namísto výsledků předklinických zkoušek a klinických hodnocení se předloží příslušná vědecká literatura a není dotčena právní ochrana průmyslového vlastnictví a obchodního tajemství. V případě veterinárních léčivých přípravků lze, zejména pro doložení bezpečnosti, použít jako vědeckou literaturu i hodnotící zprávy zveřejněné agenturou v souvislosti s hodnocením žádosti o stanovení maximálních limitů reziduí v souladu s přímo použitelným předpisem Evropské unie5).*
+>
+> *(8) V případě léčivých přípravků obsahujících léčivé látky, které jsou složkami registrovaných léčivých přípravků, ale které dosud nebyly v kombinaci použity pro léčebné účely, musí být předloženy výsledky předklinických zkoušek nebo klinických hodnocení, ale není nutné předkládat výsledky předklinických zkoušek nebo klinických hodnocení týkající se každé jednotlivé léčivé látky.*
+>
+> *(9) Pro účely posouzení žádostí týkajících se jiných léčivých přípravků majících stejné kvalitativní a kvantitativní složení, pokud jde o léčivé látky, a stejnou lékovou formu, může držitel rozhodnutí o registraci po udělení registrace dát souhlas s využitím farmaceutických, předklinických a klinických podkladů obsažených v registrační dokumentaci léčivého přípravku.*
+>
+> *(10) Žadatel o registraci není povinen předložit, jde-li o imunologické veterinární léčivé přípravky, výsledky některých hodnocení prováděných u cílových druhů zvířat v terénních podmínkách, jestliže tato hodnocení nemohou být provedena s ohledem na předpisy Evropské unie týkající se některých závažných nákaz zvířat15). V takovém případě se nepředkládají údaje podle § 26 odst. 5 písm. j) bodů 2 a 3 a žadatel uvede v žádosti důvody, proč takové výsledky nebyly předloženy.*
+>
+> *(11) Pro registrace humánního léčivého přípravku podle odstavců 1 až 5 nemusí být v souhrnu údajů o přípravku zahrnuty ty části souhrnu údajů referenčního léčivého přípravku týkající se indikací nebo lékových forem, které byly v době uvedení generika na trh ještě chráněny patentovým právem43). Prováděcí právní předpis stanoví rozsah a úpravu údajů, které jsou obsahem souhrnu údajů o přípravku.*
+>
+> *(12) Žadatel o registraci humánního léčivého přípravku zajistí, aby byly podrobné souhrny podle § 26 odst. 6 sestaveny a podepsány odborníky s příslušnými technickými nebo odbornými kvalifikacemi, které se uvedou ve stručném životopisu. Osoby, které mají technické nebo odborné kvalifikace podle předchozí věty, odůvodní každé použití vědecké literatury podle odstavce 7. Cílem podrobných souhrnů je shrnout farmaceutické, předklinické a klinické údaje formou přehledů. Prováděcí právní předpis stanoví rozsah podrobných souhrnů.*
+>
+> *(13) Na veterinární léčivé přípravky, které podléhají registraci podle nařízení o veterinárních léčivých přípravcích, se použijí podmínky stanovené v kapitole II tohoto nařízení a v prováděcích aktech Komise nebo aktech Komise v přenesené pravomoci vydaných podle článků této kapitoly.*
+>
+> *(14) Pro veterinární léčivé přípravky, a to bez ohledu na to, zda podléhají nebo nepodléhají nařízení o veterinárních léčivých přípravcích, platí pravidla ochrany registrační dokumentace, doba této ochrany a pravidla prodloužení a stanovení dodatečné doby ochrany registrační dokumentace podle čl. 38 až 40 tohoto nařízení obdobně.*
 
 **Výklad:**
 
@@ -274,9 +356,63 @@ Pro všechny tyto kategorie platí:
 >
 > *(2) Je-li žádost o registraci úplná, Ústav nebo Veterinární ústav o ní rozhodne ve lhůtě*
 >
-> *- a) 150 dnů [...], pokud se jedná o žádost o registraci léčivého přípravku podle § 27 odst. 1 [generikum],*
+> *- a) 150 dnů ode dne, kdy bylo sděleno žadateli o registraci, že jeho žádost byla shledána úplnou, pokud se jedná o žádost o registraci léčivého přípravku podle § 27 odst. 1, nebo*
 >
-> *- b) 210 dnů [...] v ostatních případech.*
+> *- b) 210 dnů ode dne, kdy bylo sděleno žadateli o registraci, že jeho žádost byla shledána úplnou, v ostatních případech.*
+>
+> *(3) Pokud Ústav, u kterého byla podána žádost o registraci, zjistí, že žádost o registraci téhož léčivého přípravku je již posuzována v jiném členském státě, žádost neposuzuje a řízení zastaví. Informuje žadatele o registraci o tom, že je třeba postupovat v souladu s ustanoveními o vzájemném uznávání registrací.*
+>
+> *(4) Je-li Ústav informován podle § 26 odst. 5 písm. p), že v jiném členském státě již byl zaregistrován léčivý přípravek, jenž je předmětem žádosti o registraci podané Ústavu, zamítne tuto žádost, pokud nebyla předložena v souladu s ustanoveními o vzájemném uznávání registrací.*
+>
+> *(5) Při posuzování žádosti předložené podle § 26 až 30 s přihlédnutím ke zvláštní povaze homeopatických přípravků a tradičních rostlinných přípravků registrovaných zjednodušeným postupem, Ústav nebo Veterinární ústav*
+>
+> *- a) ověřuje, zda jsou předložené údaje a dokumentace v souladu s tímto zákonem, a posuzuje, zda jsou splněny podmínky pro vydání rozhodnutí o registraci léčivého přípravku, zejména zda*
+>
+> *- 1. léčivý přípravek lze posoudit v souladu s předloženou dokumentací jako účinný, dostatečně bezpečný a jakostní,*
+>
+> *- 2. prospěch z použití léčivého přípravku za podmínek vymezených souhrnem údajů o přípravku převyšuje rizika spojená s jeho použitím,*
+>
+> *- 3. byly splněny podmínky správné klinické praxe, správné laboratorní praxe a správné výrobní praxe,*
+>
+> *- 4. název léčivého přípravku neodporuje jeho složení a léčivým účinkům a není zaměnitelný s názvem jiného léčivého přípravku již registrovaného podle § 25 odst. 1, nebo o jehož registraci již byla podána Ústavu nebo Veterinárnímu ústavu žádost, která nebyla pravomocně zamítnuta, nebo který má být v souladu se záměrem oznámeným agentuře předmětem žádosti o registraci postupem Evropské unie, a dále zda nepůsobí klamavým nebo zavádějícím dojmem při posouzení názvu léčivého přípravku ve vztahu k cílové skupině pacientů a souhrnu údajů o přípravku,*
+>
+> *- b) může podrobit léčivý přípravek, jeho výchozí suroviny a, je-li potřeba, jeho meziprodukty nebo jiné složky laboratorní kontrole za účelem zjištění, že kontrolní metody použité výrobcem a popsané v předložené dokumentaci jsou dostatečné,*
+>
+> *- c) může při posuzování podle odstavce 1 nebo 2 v případě zjištění nedostatků vyzvat žadatele o registraci, aby doplnil předložené údaje a dokumentaci, případně předložil vzorky pro laboratorní kontrolu podle písmene b),*
+>
+> *- d) ověřuje, zda výrobci léčivých přípravků, včetně osob dovážejících léčivé přípravky ze třetích zemí, mají vytvořeny podmínky nebo uskutečňují výrobu v souladu s údaji předloženými podle § 26 odst. 5 písm. d) a kontrolu podle metod popsaných podle § 26 odst. 5 písm. h),*
+>
+> *- e) může povolit, aby výrobci léčivých přípravků, včetně osob dovážejících léčivé přípravky ze třetích zemí, v odůvodněných případech zadali provedení určitých stupňů výroby nebo kontrol uvedených v písmenu d) jiným osobám; v takových případech Ústav nebo Veterinární ústav podle své působnosti prověří příslušná zařízení těchto osob,*
+>
+> *- f) posuzuje klasifikaci léčivého přípravku pro výdej,*
+>
+> *- g) posuzuje označení vnějšího a vnitřního obalu a údaje v příbalové informaci a ukládá v případě potřeby žadateli o registraci povinnost uvést na vnitřním nebo vnějším obalu, případně v příbalové informaci, další údaje nezbytné s ohledem na bezpečnost léčivého přípravku nebo ochranu zdraví, včetně zvláštních upozornění týkajících se používání léčivého přípravku s ohledem na údaje získané v rámci farmakologického zkoušení a klinického hodnocení léčivého přípravku nebo v rámci praktického používání léčivého přípravku po udělení registrace.*
+>
+> *Od ověření skutečností uvedených v písmenech d) a e) může Ústav nebo Veterinární ústav upustit, jestliže jde o výrobce z členských států nebo států, s nimiž byla uzavřena příslušná mezinárodní dohoda47), popřípadě o výrobce ze třetí země, u něhož skutečnosti uvedené v písmenech d) a e) ověřil příslušný orgán členského státu.*
+>
+> *(6) Jde-li o léčivý přípravek obsahující geneticky modifikovaný organismus11), vyžádá si Ústav nebo Veterinární ústav stanovisko Ministerstva životního prostředí k posouzení rizika pro životní prostředí podle zvláštního právního předpisu11). Ministerstvo životního prostředí vydá stanovisko ve lhůtě 90 dnů ode dne, kdy žádost obdrželo. Od vyžádání tohoto stanoviska lze upustit v případě, že takové stanovisko bylo předloženo zároveň se žádostí o registraci nebo zároveň se žádostí o registraci byla předložena zpráva o posouzení rizika pro životní prostředí provedeném příslušným orgánem Evropské unie.*
+>
+> *(7) Jde-li o humánní imunologické léčivé přípravky, vyžádá si Ústav stanovisko Ministerstva zdravotnictví, a jde-li o radiofarmaka, vyžádá si Ústav nebo Veterinární ústav stanovisko Státního úřadu pro jadernou bezpečnost. Ministerstvo zdravotnictví a Státní úřad pro jadernou bezpečnost vydají stanovisko ve lhůtě 60 dnů od doručení vyžádání.*
+>
+> *(8) Ústav nebo Veterinární ústav vypracuje zprávu o hodnocení léčivého přípravku obsahující hodnocení registrační dokumentace s ohledem na výsledky farmaceutických a předklinických zkoušek a klinických hodnocení; jde-li o humánní léčivý přípravek, vypracuje Ústav zprávu o hodnocení i s ohledem na systém řízení rizik a farmakovigilanční systém daného léčivého přípravku. Zprávu o hodnocení léčivého přípravku Ústav nebo Veterinární ústav aktualizuje, kdykoliv je jim známa nová informace důležitá pro hodnocení jakosti, bezpečnosti nebo účinnosti daného léčivého přípravku.*
+>
+> *(9) V rámci registračního řízení se neposuzují práva k ochraně průmyslového vlastnictví a obchodního tajemství a skutečnost, že registrace byla udělena nebo změněna, není porušením těchto práv Ústavem nebo Veterinárním ústavem.*
+>
+> *(10) Ústav nebo Veterinární ústav žádost o registraci zamítne, jestliže se v průběhu registračního řízení po ověření údajů a dokumentů uvedených v § 26 a 27 zjistí, že*
+>
+> *- a) poměr rizika a prospěšnosti léčivého přípravku nelze považovat za příznivý; pokud jde o veterinární léčivý přípravek pro zootechnické použití48), musí být při hodnocení poměru rizika a prospěšnosti vzaty v úvahu přínosy pro zdraví a pohodu zvířat a bezpečnost pro spotřebitele,*
+>
+> *- b) léčivý přípravek nemá léčebnou účinnost nebo jeho léčebná účinnost není žadatelem o registraci dostatečně doložena,*
+>
+> *- c) kvalitativní a kvantitativní složení léčivého přípravku neodpovídá deklarovanému složení léčivého přípravku,*
+>
+> *- d) předložené údaje nebo dokumentace neodpovídají požadavkům stanoveným tímto zákonem nebo přímo použitelnými předpisy Evropské unie23) nebo použití léčivého přípravku je podle zvláštních právních předpisů17) nebo přímo použitelných předpisů Evropské unie49) zakázáno, omezeno nebo je s nimi v rozporu,*
+>
+> *- e) údaje předložené se žádostí o registraci jsou nesprávné, nebo*
+>
+> *- f) veterinární imunologický léčivý přípravek je v rozporu s prováděním veterinárních opatření s ohledem na tlumení nebo zdolávání nákaz zvířat18).*
+>
+> *(11) Pro registrační řízení o veterinárních léčivých přípravcích podléhajících nařízení o veterinárních léčivých přípravcích platí pravidla stanovená v kapitolách II a III tohoto nařízení a prováděcích aktech Komise nebo aktech Komise v přenesené pravomoci vydaných podle článků těchto kapitol.*
 
 **Výklad:**
 
@@ -332,15 +468,29 @@ Tyto povinnosti jsou součástí **podmínek registrace** a jejich neplnění je
 
 > **§ 32**
 >
-> *(1) Rozhodnutí o registraci [...] obsahuje vždy název léčivého přípravku, registrační číslo léčivého přípravku, údaj o držiteli rozhodnutí o registraci [...]. Rozhodnutí o registraci dále vždy obsahuje údaj*
+> *(1) Rozhodnutí o registraci, včetně rozhodnutí o registraci veterinárních léčivých přípravků podléhajících nařízení o veterinárních léčivých přípravcích, obsahuje vždy název léčivého přípravku, registrační číslo léčivého přípravku, údaj o držiteli rozhodnutí o registraci, popřípadě o osobě, kterou držitel rozhodnutí o registraci zmocní, aby ho zastupovala ve věcech upravených tímto zákonem. Rozhodnutí o registraci dále vždy obsahuje údaj*
 >
-> *- a) o klasifikaci humánního léčivého přípravku pro výdej [...],*
+> *- a) o klasifikaci humánního léčivého přípravku pro výdej nebo o klasifikaci veterinárního léčivého přípravku pro výdej a použití,*
 >
-> *- b) o tom, zda léčivý přípravek obsahuje návykovou látku nebo uvedenou látku kategorie 1 podle přímo použitelného předpisu Evropské unie upravujícího prekursory drog [...].*
+> *- b) o tom, zda léčivý přípravek obsahuje návykovou látku nebo uvedenou látku kategorie 1 podle přímo použitelného předpisu Evropské unie upravujícího prekursory drog40).*
 >
-> *(2) Rozhodnutí o registraci platí 5 let ode dne nabytí jeho právní moci [...].*
+> *Při vydání rozhodnutí o registraci Ústav nebo Veterinární ústav informuje držitele rozhodnutí o registraci o schváleném souhrnu údajů o přípravku. Jde-li o homeopatické přípravky registrované podle § 28 nebo 29, přílohou rozhodnutí o registraci není souhrn údajů o přípravku.*
 >
-> *(3) Za výjimečných okolností mohou být v rozhodnutí o registraci uloženy povinnosti týkající se bezpečnosti léčivého přípravku [...]. Registrace může být udělena, pouze pokud žadatel o registraci prokáže, že není z objektivních důvodů, které lze ověřit, schopen poskytnout úplné údaje o účinnosti a bezpečnosti příslušného léčivého přípravku za běžných podmínek použití. Plnění uložených povinností se každoročně posoudí. [...]*
+> *(2) Rozhodnutí o registraci platí 5 let ode dne nabytí jeho právní moci; ustanovení § 34a tím není dotčeno. Pro veterinární léčivé přípravky podléhající nařízení o veterinárních léčivých přípravcích je doba platnosti jejich registrace stanovena nařízením o veterinárních léčivých přípravcích.*
+>
+> *(3) Za výjimečných okolností mohou být v rozhodnutí o registraci uloženy povinnosti týkající se bezpečnosti léčivého přípravku, oznamování veškerých mimořádných událostí v souvislosti s jeho použitím Ústavu nebo Veterinárnímu ústavu a opatření, která mají být přijata. Registrace může být udělena, pouze pokud žadatel o registraci prokáže, že není z objektivních důvodů, které lze ověřit, schopen poskytnout úplné údaje o účinnosti a bezpečnosti příslušného léčivého přípravku za běžných podmínek použití. Plnění uložených povinností se každoročně posoudí. Ústav nebo Veterinární ústav na základě výsledků takového posouzení může rozhodnutí o registraci změnit nebo zrušit.*
+>
+> *(4) V rozhodnutí o registraci může být dále uložena*
+>
+> *- a) povinnost předkládat v případě imunologických léčivých přípravků nebo krevních derivátů před uvedením do oběhu vzorky každé šarže nerozplněného nebo konečného léčivého přípravku k přezkoušení Ústavem nebo Veterinárním ústavem v souladu s § 102 odst. 1,*
+>
+> *- b) povinnost předkládat zprávy o bezpečnosti léčivého přípravku podle § 96 odst. 5 ve stanovených lhůtách, nebo*
+>
+> *- c) jiná povinnost, jejímž účelem je zabezpečení jakosti, bezpečnosti nebo účinnosti léčivého přípravku.*
+>
+> *(5) Současně s vydáním rozhodnutí o registraci Ústav nebo Veterinární ústav přidělí léčivému přípravku kód, který je elektronicky zpracovatelný, umožní jednoznačnou identifikaci každé varianty léčivého přípravku a slouží pro účely evidence a, jde-li o humánní léčivý přípravek, dále pro účely případné identifikace při stanovování cen a úhrad z veřejného zdravotního pojištění. Tento kód Ústav nebo Veterinární ústav oznámí žadateli a zveřejňuje jej jako součást seznamu registrovaných léčivých přípravků ve svém informačním prostředku.*
+>
+> *(6) Jde-li o rozhodnutí o registraci veterinárních imunologických léčivých přípravků, Veterinární ústav vydává takové rozhodnutí s ohledem na opatření v oblasti ochrany před nákazami zvířat a jejich zdolávání stanovená podle jiného právního předpisu18).*
 
 **Výklad:**
 
@@ -437,7 +587,11 @@ Pro označení LP příznakem „omezená dostupnost" se vydává **opatření o
 
 > **§ 34**
 >
-> *(1) Platnost registrace může být prodloužena po 5 letech na základě přehodnocení poměru rizika a prospěšnosti Ústavem nebo Veterinárním ústavem. [...] Jakmile je platnost registrace jednou prodloužena podle tohoto zákona, je platná po neomezenou dobu. [...]*
+> *(1) Platnost registrace může být prodloužena po 5 letech na základě přehodnocení poměru rizika a prospěšnosti Ústavem nebo Veterinárním ústavem. O prodloužení platnosti registrace může požádat držitel rozhodnutí o registraci Ústav nejméně 9 měsíců před uplynutím platnosti rozhodnutí o registraci a Veterinární ústav nejméně 3 měsíce před uplynutím platnosti rozhodnutí o registraci. Jde-li o humánní léčivý přípravek, poskytne držitel rozhodnutí o registraci Ústavu spolu se žádostí nebo nejpozději 9 měsíců před uplynutím platnosti registrace aktuální souhrnnou dokumentaci vztahující se k jakosti, bezpečnosti a účinnosti, včetně hodnocení údajů obsažených v hlášeních o podezření na nežádoucí účinky a v pravidelně aktualizovaných zprávách o bezpečnosti předkládaných v souladu s hlavou pátou tohoto zákona, jakož i informace o všech změnách zavedených od udělení registrace. Žádost o prodloužení platnosti registrace musí obsahovat údaje o žadateli, dále údaje upřesňující předmět žádosti a jeho odůvodnění. Jakmile je platnost registrace jednou prodloužena podle tohoto zákona, je platná po neomezenou dobu. Jde-li o humánní léčivý přípravek, Ústav na základě důvodů souvisejících s farmakovigilancí, včetně expozice nedostatečného počtu pacientů dotyčnému léčivému přípravku, může rozhodnout o opětovném prodloužení platnosti registrace na dalších 5 let. Ustanovením věty páté a šesté není dotčena možnost zrušit či pozastavit registraci z důvodů uvedených v odstavci 4 nebo 5. Prováděcí právní předpis stanoví rozsah údajů a dokumentace předkládaných s žádostí o prodloužení platnosti registrace.*
+>
+> *(2) Na řízení o prodloužení platnosti registrace se vztahují ustanovení o registračním řízení obdobně. Ústav nebo Veterinární ústav rozhodne o takové žádosti nejpozději do 90 dnů od předložení úplné žádosti. Pokud je žádost o prodloužení platnosti registrace Ústavu nebo Veterinárnímu ústavu ve lhůtě podle odstavce 1 doručena, považuje se léčivý přípravek za registrovaný až do dne nabytí právní moci rozhodnutí o žádosti o prodloužení platnosti registrace. Léčivý přípravek odpovídající údajům a dokumentaci před prodloužením registrace lze, pokud nebylo v rozhodnutí o prodloužení registrace stanoveno jinak, nadále uvádět na trh nejdéle po dobu 180 dnů od schválení prodloužení registrace. Distribuovat, vydávat, v případě vyhrazených léčivých přípravků prodávat, a používat při poskytování zdravotních služeb nebo veterinární péče je takový léčivý přípravek možné dále po dobu jeho použitelnosti.*
+>
+> *(3) Jestliže označení na obalu léčivého přípravku nebo příbalová informace neodpovídají ustanovením tohoto zákona nebo nejsou v souladu s údaji uvedenými v souhrnu údajů o přípravku, popřípadě v jeho návrhu, Ústav nebo Veterinární ústav zamítne žádost o registraci nebo o změnu registrace nebo vyjádří nesouhlas se změnou podle § 35 odst. 4.*
 >
 > *(4) Ústav nebo Veterinární ústav změní, pozastaví nebo zruší registraci léčivého přípravku, jestliže*
 >
@@ -445,7 +599,37 @@ Pro označení LP příznakem „omezená dostupnost" se vydává **opatření o
 >
 > *- b) léčivý přípravek nemá léčebnou účinnost,*
 >
-> *- c) poměr rizika a prospěšnosti [...] není příznivý, [...]*
+> *- c) poměr rizika a prospěšnosti humánního léčivého přípravku není příznivý, nebo pokud při použití veterinárního léčivého přípravku v souladu s podmínkami jeho registrace není poměr rizika a prospěšnosti příznivý,*
+>
+> *- d) veterinární léčivý přípravek nemá léčebnou účinnost podle písmene b) u druhů zvířat, pro které je určen,*
+>
+> *- e) kvalitativní a kvantitativní složení léčivého přípravku neodpovídá dokumentaci předložené v rámci registračního řízení a v rámci následných změn registrace,*
+>
+> *- f) veterinární léčivý přípravek je nabízen k použití, které je zakázáno nebo omezeno zvláštním právním předpisem18),*
+>
+> *- g) veterinární imunologický přípravek narušuje provádění veterinárních opatření s ohledem na tlumení nebo zdolávání nákaz zvířat,*
+>
+> *- h) údaje předložené s žádostí o registraci jsou nesprávné nebo nebyly změněny podle § 33 odst. 1 v souladu s § 35,*
+>
+> *- i) nebyly předloženy doklady o kontrolách podle § 64 písm. u),*
+>
+> *- j) nebyla splněna povinnost podle § 31a, § 32 odst. 3, § 32 odst. 4 písm. c) nebo § 32a,*
+>
+> *- k) Ústavu nebo Veterinárnímu ústavu nebyly sděleny informace podle § 33 odst. 1 nebo § 33 odst. 3 písm. c), nebo*
+>
+> *- l) výroba humánního léčivého přípravku není v souladu s údaji poskytnutými podle § 26 odst. 5 písm. d) nebo kontroly nejsou prováděny kontrolními metodami uvedenými v jejich popisu podle § 26 odst. 5 písm. h),*
+>
+> *- m) jde o léčivý přípravek, jenž je antimikrobikem, které je vyhrazeno k léčbě určitých infekcí u lidí, podle nařízení Komise v přenesené pravomoci vydaným na základě čl. 37 odst. 5 nařízení o veterinárních léčivých přípravcích.*
+>
+> *(5) Ústav nebo Veterinární ústav pozastaví nebo zruší registraci pro skupiny léčivých přípravků nebo pro všechny léčivé přípravky daného výrobce, pokud výrobce neplní podmínky doložené podle § 63 odst. 1 a povinnost k nahlášení změny.*
+>
+> *(6) Pozastavení registrace léčivého přípravku podle odstavce 4 nebo 5 uplatní Ústav nebo Veterinární ústav v těch případech, kdy získané informace nejsou úplné nebo jsou zjištěny takové nedostatky, které jsou odstranitelné povahy. Zrušení registrace léčivého přípravku podle odstavce 4 nebo 5 uplatní Ústav nebo Veterinární ústav v těch případech, kdy získané informace nejsou úplné nebo jsou zjištěny takové nedostatky, které nejsou odstranitelné povahy. Ústav nebo Veterinární ústav v rozhodnutí o pozastavení registrace léčivého přípravku stanoví práva a povinnosti držitele rozhodnutí o registraci po dobu trvání pozastavení registrace. Po odstranění důvodů, které vedly k pozastavení registrace, Ústav nebo Veterinární ústav rozhodne o ukončení pozastavení registrace. Pokud nedošlo k odstranění důvodů, které vedly k pozastavení registrace, ve stanoveném termínu nebo nejpozději do 3 let ode dne nabytí právní moci rozhodnutí o pozastavení registrace, pokud termín k jejich odstranění nebyl stanoven, rozhodne Ústav nebo Veterinární ústav o zrušení registrace léčivého přípravku. Odvolání proti rozhodnutí o pozastavení registrace léčivého přípravku nemá odkladný účinek.*
+>
+> *(7) Registrace léčivého přípravku zaniká smrtí držitele rozhodnutí o registraci, jde-li o osobu fyzickou, nebo zánikem držitele rozhodnutí o registraci, jde-li o osobu právnickou, v případě, že zanikla bez právního nástupce.*
+>
+> *(8) Osoba, která byla držitelem rozhodnutí o registraci je povinna po nabytí právní moci rozhodnutí o zrušení registrace nebo v případě, že registrace zanikla uplynutím doby její platnosti, neprodleně stáhnout léčivý přípravek z oběhu. O způsobu stažení léčivého přípravku a o době nutné k provedení tohoto stažení je povinna informovat Ústav nebo Veterinární ústav v rámci řízení o zrušení registrace a v případě, že registrace zaniká uplynutím doby její platnosti, nejpozději 15 dní před tímto zánikem. V případě ohrožení zdraví lidí nebo zvířat v důsledku neprodleného stažení léčivého přípravku z oběhu rozhodne Ústav nebo Veterinární ústav o postupném stažení léčivého přípravku z oběhu. V takovém případě má osoba, která byla držitelem rozhodnutí o registraci, po dobu přítomnosti léčivého přípravku na trhu nadále povinnosti, jako by byla držitelem rozhodnutí o registraci. Pokud došlo k zániku držitele rozhodnutí o registraci a neexistuje jeho právní nástupce, zajistí stažení z oběhu Ústav nebo Veterinární ústav.*
+>
+> *(9) Ústav nebo Veterinární ústav neprodleně zahájí řízení z moci úřední o změně registrace léčivého přípravku zařazeného mezi vyhrazené léčivé přípravky v případě nových skutečností týkajících se bezpečnosti vyhrazeného léčivého přípravku.*
 
 **Výklad:**
 
@@ -484,9 +668,17 @@ V případě zániku bez nástupce zajistí stažení LP z trhu Ústav (odst. 8 
 
 > **§ 34a**
 >
-> *(1) Rozhodnutí o registraci humánního léčivého přípravku pozbývá platnosti, pokud ve lhůtě 3 let ode dne nabytí jeho právní moci není léčivý přípravek uveden na trh v České republice [...].*
+> *(1) Rozhodnutí o registraci humánního léčivého přípravku pozbývá platnosti, pokud ve lhůtě 3 let ode dne nabytí jeho právní moci není léčivý přípravek uveden na trh v České republice; pokud jde o generikum, tato lhůta začíná běžet až ode dne, kdy skončí doba, po kterou nesmí být uvedeno na trh podle § 27 odst. 1.*
 >
-> *(2) Pokud registrovaný léčivý přípravek uvedený na trh v České republice není po dobu 3 po sobě jdoucích let přítomen na trhu v množství nejméně jednoho balení tohoto léčivého přípravku, pozbývá rozhodnutí o registraci takového léčivého přípravku platnosti [...].*
+> *(2) Pokud registrovaný léčivý přípravek uvedený na trh v České republice není po dobu 3 po sobě jdoucích let přítomen na trhu v množství nejméně jednoho balení tohoto léčivého přípravku, pozbývá rozhodnutí o registraci takového léčivého přípravku platnosti, přičemž tato lhůta počíná běžet prvním dnem roku následujícího po roce, ve kterém byl tento léčivý přípravek uveden na trh v České republice.*
+>
+> *(3) Ústav za výjimečných okolností a s ohledem na ochranu veřejného zdraví nebo z důvodu existence práv třetích osob může na základě odůvodněné žádosti držitele rozhodnutí o registraci předložené nejdříve 6 měsíců a nejpozději 3 měsíce přede dnem ukončení lhůty podle odstavce 1 nebo 2 anebo z moci úřední rozhodnout o udělení výjimky tak, že se toto ustanovení na dané rozhodnutí o registraci nevztahuje.*
+>
+> *(4) Je-li léčivý přípravek uveden na trh v České republice nebo je obnovena jeho přítomnost na tomto trhu až po podání žádosti o udělení výjimky, držitel rozhodnutí o registraci je povinen neprodleně oznámit Ústavu tuto skutečnost s uvedením názvu léčivého přípravku, jeho kódu, šarže, distributora, data jeho uvedení na trh nebo obnovení jeho přítomnosti na trhu a počtu balení.*
+>
+> *(5) Rozhodnutí o udělení výjimky vydá Ústav před uplynutím lhůty podle odstavce 1 nebo 2. Rozhodnutí o udělení výjimky, včetně jeho odůvodnění nebo informaci o pozbytí platnosti rozhodnutí o registraci zveřejní Ústav ve svém informačním prostředku.*
+>
+> *(6) Není-li léčivý přípravek uveden na trh nebo přítomen na trhu ani do 6 měsíců po zániku důvodů pro udělení výjimky, může Ústav z moci úřední rozhodnout o zrušení rozhodnutí o udělení výjimky.*
 
 § 34a implementuje **„sunset clause"** podle čl. 24 odst. 4–6 směrnice 2001/83/ES. Cílem je vyčistit registry od „spících" registrací — LP, které jsou registrované, ale fakticky se neuvádějí na trh:
 
@@ -708,17 +900,19 @@ Zpravidla obsahuje technické přechodné ustanovení mezi novelami; konkrétní
 
 > **§ 51**
 >
-> *(1) Ústav posuzuje žádosti o povolení klinického hodnocení humánních léčivých přípravků podle čl. 5, 13 a 14 nařízení o klinickém hodnocení a žádosti o povolení významné změny klinického hodnocení v souladu s čl. 17 nařízení o klinickém hodnocení. Ústav dále provádí dohled nad průběhem klinického hodnocení. [...]*
+> *(1) Ústav posuzuje žádosti o povolení klinického hodnocení humánních léčivých přípravků podle čl. 5, 13 a 14 nařízení o klinickém hodnocení a žádosti o povolení významné změny klinického hodnocení v souladu s čl. 17 nařízení o klinickém hodnocení. Ústav dále provádí dohled nad průběhem klinického hodnocení. Veškeré úkony prováděné v souvislosti s vyřízením žádosti o povolení klinického hodnocení a žádosti o povolení významné změny klinického hodnocení a zajištěním dohledu se považují za odborné úkony.*
 >
 > *(2) Ústav je v České republice národním kontaktním místem podle čl. 83 nařízení o klinickém hodnocení.*
 >
-> *(3) Ústav v rámci posuzování žádosti [...]*
+> *(3) Ústav v rámci posuzování žádosti o povolení klinického hodnocení humánních léčivých přípravků nebo významné změny klinického hodnocení*
 >
-> *- a) v případě, že je Česká republika ve vztahu k příslušnému klinickému hodnocení členským státem zpravodajem [...] vykonává činnosti členského státu zpravodaje [...],*
+> *- a) v případě, že je Česká republika ve vztahu k příslušnému klinickému hodnocení členským státem zpravodajem podle čl. 5 odst. 1 nebo čl. 14 odst. 2 nařízení o klinickém hodnocení, vykonává činnosti členského státu zpravodaje stanovené nařízením o klinickém hodnocení, týkající se aspektů, na které se vztahuje část I hodnotící zprávy,*
 >
-> *- b) v případě, že Česká republika není ve vztahu k příslušnému klinickému hodnocení členským státem zpravodajem, vykonává činnosti dotčeného členského státu [...],*
+> *- b) v případě, že Česká republika není ve vztahu k příslušnému klinickému hodnocení členským státem zpravodajem, vykonává činnosti dotčeného členského státu podle čl. 2 odst. 12 nebo čl. 14 nařízení o klinickém hodnocení, týkající se aspektů, na které se vztahuje část I hodnotící zprávy, a*
 >
-> *- c) vypracovává část II hodnotící zprávy [...].*
+> *- c) vypracovává část II hodnotící zprávy k žádosti o povolení klinického hodnocení týkající se České republiky a k žádosti o povolení významné změny týkající se České republiky, jejíž součástí je stanovisko vypracované etickou komisí.*
+>
+> *(4) Ústav rozhoduje o žádosti o povolení klinického hodnocení a o žádosti o povolení významné změny klinického hodnocení podle nařízení o klinickém hodnocení. Tato rozhodnutí platí pro území České republiky.*
 
 **Výklad:**
 
@@ -774,7 +968,7 @@ Rozhodnutí SÚKL **platí pro území ČR** — i v případě, kdy je ČR RMS 
 >
 > *- c) jejichž svéprávnost byla omezena soudem.*
 >
-> *(3) Klinické hodnocení lze provádět u osob uvedených v odstavci 2 jen tehdy, pokud k němu tyto osoby přivolí svobodným a informovaným souhlasem a pokud existují vědecky podložené důkazy opravňující k očekávání, že účast v klinickém hodnocení bude mít pro tyto osoby přímý léčebný nebo zdravotně preventivní přínos, který převáží nad souvisejícími riziky a zátěží [...]*
+> *(3) Klinické hodnocení lze provádět u osob uvedených v odstavci 2 jen tehdy, pokud k němu tyto osoby přivolí svobodným a informovaným souhlasem a pokud existují vědecky podložené důkazy opravňující k očekávání, že účast v klinickém hodnocení bude mít pro tyto osoby přímý léčebný nebo zdravotně preventivní přínos, který převáží nad souvisejícími riziky a zátěží, nebo pro ně zařazení do klinického hodnocení bude jedinou možností stabilizace, popřípadě zlepšení nepříznivého zdravotního stavu.*
 
 **Výklad:**
 
@@ -846,11 +1040,13 @@ EK může **odvolat své souhlasné stanovisko** (odst. 7) — trvale nebo doča
 
 > **§ 54**
 >
-> *(1) Zkoušejícím a hlavním zkoušejícím může být pouze lékař splňující podmínky stanovené jiným právním předpisem pro výkon tohoto zdravotnického povolání, který má nezbytné vědecké znalosti a zkušenosti s péčí o pacienty s onemocněním nebo stavy, na jejichž léčbu se zaměřuje dané klinické hodnocení, a má znalosti správné klinické praxe.*
+> *(1) Zkoušejícím a hlavním zkoušejícím může být pouze lékař splňující podmínky stanovené jiným právním předpisem29) pro výkon tohoto zdravotnického povolání, který má nezbytné vědecké znalosti a zkušenosti s péčí o pacienty s onemocněním nebo stavy, na jejichž léčbu se zaměřuje dané klinické hodnocení, a má znalosti správné klinické praxe.*
 >
 > *(2) Klinické hodnocení lze provádět pouze u poskytovatele zdravotních služeb ve zdravotnickém zařízení.*
 >
-> *(3) Poskytovatel zdravotních služeb, u něhož je prováděno klinické hodnocení, v němž dochází k prvnímu podání hodnoceného léčivého přípravku člověku, a poskytovatel zdravotních služeb, u něhož je prováděno klinické hodnocení bez léčebného nebo preventivního efektu pro subjekty hodnocení, [...] musí být držitelem certifikátu správné klinické praxe vydaného Ústavem.*
+> *(3) Poskytovatel zdravotních služeb, u něhož je prováděno klinické hodnocení, v němž dochází k prvnímu podání hodnoceného léčivého přípravku člověku, a poskytovatel zdravotních služeb, u něhož je prováděno klinické hodnocení bez léčebného nebo preventivního efektu pro subjekty hodnocení, a to zejména bioekvivalenční a farmakokinetická klinická hodnocení, musí být držitelem certifikátu správné klinické praxe vydaného Ústavem.*
+>
+> *(4) Pro poskytovatele zdravotních služeb neuvedené v odstavci 3, u nichž jsou prováděna klinická hodnocení, není získání certifikátu správné klinické praxe povinné; mohou však o jeho vydání požádat.*
 
 **Výklad:**
 
@@ -903,7 +1099,15 @@ Informace na obalu IMP — v češtině, nestanoví-li Ústav jinak (typicky mul
 >
 > *(1) Jsou-li splněny podmínky stanovené v čl. 59 odst. 2 nařízení o klinickém hodnocení, mohou být na území České republiky použity při klinickém hodnocení i neregistrované léčivé přípravky.*
 >
-> *(2) Zadavatel poskytuje zdarma hodnocené léčivé přípravky, pomocné léčivé přípravky neregistrované podle tohoto zákona vyžadované protokolem klinického hodnocení a zdravotnické prostředky potřebné pro provedení klinického hodnocení [...]. Je-li zadavatelem nekomerční zadavatel [...] a hodnocené léčivé přípravky jsou registrované v České republice, není poskytnutí hodnocených léčivých přípravků zdarma povinné.*
+> *(2) Zadavatel poskytuje zdarma hodnocené léčivé přípravky, pomocné léčivé přípravky neregistrované podle tohoto zákona vyžadované protokolem klinického hodnocení a zdravotnické prostředky potřebné pro provedení klinického hodnocení, které jsou určeny k podání hodnocených léčivých přípravků. V rámci klinického hodnocení humánních léčivých přípravků, pokud nelze použít notifikovaný zdravotnický prostředek, lze použít po předchozím schválení Ústavem i takový zdravotnický prostředek, který jinak nesplňuje požadavky stanovené zákonem o zdravotnických prostředcích. Je-li zadavatelem nekomerční zadavatel, kterým se pro účely tohoto zákona rozumí poskytovatel zdravotních služeb zřízený nebo založený státem nebo územním samosprávním celkem, veřejná vysoká škola a veřejná výzkumná instituce, a hodnocené léčivé přípravky jsou registrované v České republice, není poskytnutí hodnocených léčivých přípravků zdarma povinné.*
+>
+> *(3) Mají-li být v klinickém hodnocení humánních léčivých přípravků použita radiofarmaka neregistrovaná podle tohoto zákona, pak v souladu s požadavky nařízení o klinickém hodnocení předloží zadavatel spolu s dokumentací k žádosti o povolení klinického hodnocení stanovisko Státního úřadu pro jadernou bezpečnost vydané podle § 18.*
+>
+> *(4) Mají-li být v klinickém hodnocení humánních léčivých přípravků použity přípravky obsahující geneticky modifikované organismy, předloží zadavatel spolu s dokumentací k žádosti o povolení klinického hodnocení souhlas Ministerstva životního prostředí vydaný podle jiného právního předpisu11).*
+>
+> *(5) Mají-li být v klinickém hodnocení humánních léčivých přípravků použity přípravky obsahující lidské embryonální kmenové buňky, předloží zadavatel spolu s dokumentací k žádosti o povolení klinického hodnocení povolení k nakládání s lidskými embryonálními kmenovými buňkami vydané Ministerstvem školství, mládeže a tělovýchovy podle jiného právního předpisu102).*
+>
+> *(6) Pro klastrová klinická hodnocení nebo nízkointervenční klinická hodnocení podle čl. 2 odst. 3 nařízení o klinickém hodnocení prováděná nekomerčními zadavateli, která nebudou podkladem pro registraci nebo změnu registrace léčivého přípravku, stanoví prováděcí právní předpis požadavky na monitorování, obsah základních dokumentů a dodatečné označování hodnocených léčivých přípravků. Klastrovým klinickým hodnocením podle věty první se rozumí klinické hodnocení prováděné pouze na území České republiky, jehož cílem je hodnocení léčby skupin pacientů, v rámci kterého jsou veškeré hodnocené léčivé přípravky registrovány podle tohoto zákona v České republice a jsou používány v souladu se souhrnem údajů o přípravku nebo mimo souhrn údajů o přípravku, je-li takový způsob použití shodný s běžnou lékařskou praxí nebo doporučenými léčebnými postupy a dostatečně odůvodněn vědeckými poznatky.*
 
 **Výklad:**
 
@@ -986,7 +1190,13 @@ Označí-li zadavatel v žádosti svého **zástupce nebo kontaktní osobu** (le
 
 > **§ 59a**
 >
-> *(1) Řešitel neintervenční poregistrační studie [...] je povinen neprodleně oznámit Ústavu zahájení a ukončení neintervenční poregistrační studie a do 180 dnů po dni ukončení sběru dat předložit Ústavu závěrečnou zprávu.*
+> *(1) Řešitel neintervenční poregistrační studie neuvedené v § 93j a 93k je povinen neprodleně oznámit Ústavu zahájení a ukončení neintervenční poregistrační studie a do 180 dnů po dni ukončení sběru dat předložit Ústavu závěrečnou zprávu.*
+>
+> *(2) Řešitelem neintervenční poregistrační studie podle odstavce 1 se rozumí osoba, která odpovídá za navržení, zahájení, provádění a vyhodnocení neintervenční poregistrační studie. Řešitelem může být držitel rozhodnutí o registraci, smluvní výzkumná organizace, lékař, poskytovatel zdravotních služeb, odborná lékařská společnost, lékařská fakulta nebo farmaceutická fakulta.*
+>
+> *(3) Prováděcí právní předpis stanoví způsob a obsahové náležitosti oznámení o zahájení a ukončení neintervenčních poregistračních studií neuvedených v § 93j a 93k prováděných v České republice. Prováděcí právní předpis dále stanoví obsah a formát závěrečné zprávy.*
+>
+> *Klinické hodnocení veterinárního léčivého přípravku*
 
 **Výklad:**
 

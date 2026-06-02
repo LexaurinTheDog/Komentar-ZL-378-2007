@@ -285,18 +285,157 @@ Sazby: 300 000 Kč (písm. d), 2 mil. Kč (c, h, k, r, s), **5 mil. Kč** (i, l,
 
 ### § 108 — Přestupky fyzických (nepodnikajících) osob
 
-> **§ 108 odst. 1** stanoví obecné skutkové podstaty pro **fyzickou osobu**:
+> **§ 108**
 >
 > *(1) Fyzická osoba se dopustí přestupku tím, že*
 >
-> *a) zachází s léčivy bez povolení, schválení, registrace nebo souhlasu …*
-> *c) uvede na trh léčivý přípravek podléhající povinně registraci podle § 25 …, aniž by tomuto přípravku byla taková registrace udělena …*
-> *g) uvede na trh padělaný léčivý přípravek,*
-> *h) padělá lékařský předpis nebo pozmění jeho obsah …, nebo užije takového předpisu jako pravého …,*
-> *i) jako lékař předá pacientovi identifikátor elektronického receptu za úplatu v rozporu s § 80 odst. 4,*
-> *j) jako lékař, farmaceut nebo klinický farmaceut neoprávněně nahlédne na údaje zobrazené prostřednictvím lékového záznamu pacienta v rozporu s § 81d odst. 6, 7 nebo 8,*
-> *k) jako farmaceut nepřevede údaje obsažené na receptu vystaveném v listinné podobě do elektronické podoby podle § 81g odst. 5,*
-> *l) jako lékař nebo farmaceut v rozporu s § 81a odst. 7 zpřístupní nebo předá údaje obsažené v jeho informačním systému třetí osobě …*
+> *- a) zachází s léčivy bez povolení, schválení, registrace nebo souhlasu v případě, kdy zákon nebo přímo použitelný předpis Evropské unie povolení, schválení, registraci nebo souhlas k zacházení s léčivy vyžaduje,*
+>
+> *- b) doveze nebo vyveze humánní transfuzní přípravek nebo surovinu pro další výrobu v rozporu s § 24 odst. 4 nebo neinformuje o uskutečnění dovozu ze třetí země nebo o uskutečnění vývozu do třetí země podle § 24 odst. 7,*
+>
+> *- c) uvede na trh léčivý přípravek podléhající povinně registraci podle § 25 nebo registraci centralizovaným postupem Evropské unie podle přímo použitelného předpisu Evropské unie24), aniž by tomuto přípravku byla taková registrace udělena, nebo uvede na trh takový léčivý přípravek v rozporu s podmínkami stanovenými rozhodnutím o registraci,*
+>
+> *- d) v rozporu s § 78 odst. 1 přechovává látky, které mají anabolické, protiinfekční, protiparazitární, protizánětlivé nebo hormonální působení, návykové látky nebo uvedené látky kategorie 1 podle přímo použitelného předpisu Evropské unie upravujícího prekursory drog, a které mohou být použity u zvířat, aniž je k tomu oprávněna,*
+>
+> *- e) připraví léčivý přípravek, aniž je k tomu podle § 79 odst. 2 oprávněna,*
+>
+> *- f) vydá nebo prodá léčivý přípravek, aniž je k tomu podle § 82 odst. 2 nebo 6 oprávněna, nebo zajišťuje zásilkový výdej léčivých přípravků, aniž je osobou k tomu podle § 84 odst. 2 oprávněnou, anebo jako osoba, která byla držitelem rozhodnutí o registraci, nesplní povinnost stáhnout léčivý přípravek z oběhu podle § 34 odst. 8,*
+>
+> *- g) uvede na trh padělaný léčivý přípravek,*
+>
+> *- h) padělá lékařský předpis nebo pozmění jeho obsah v úmyslu, aby ho bylo použito jako pravého, nebo užije takového předpisu jako pravého nebo poskytne jeho tiskopis jinému v úmyslu, aby ho bylo použito k padělání, nebo v témže úmyslu odcizí či jinak neoprávněně získá takový tiskopis,*
+>
+> *- i) jako lékař předá pacientovi identifikátor elektronického receptu za úplatu v rozporu s § 80 odst. 4,*
+>
+> *- j) jako lékař, farmaceut nebo klinický farmaceut neoprávněně nahlédne na údaje zobrazené prostřednictvím lékového záznamu pacienta v rozporu s § 81d odst. 6, 7 nebo 8,*
+>
+> *- k) jako farmaceut nepřevede údaje obsažené na receptu vystaveném v listinné podobě do elektronické podoby podle § 81g odst. 5,*
+>
+> *- l) jako lékař nebo farmaceut v rozporu s § 81a odst. 7 zpřístupní nebo předá údaje obsažené v jeho informačním systému třetí osobě,*
+>
+> *- m) jako lékař neposkytne Ústavu informace nebo údaje podle § 79a odst. 6,*
+>
+> *- n) jako chovatel nevede nebo neuchovává záznamy podle § 9 odst. 11 nebo § 80a odst. 5, nebo*
+>
+> *- o) předepíše medikované krmivo v rozporu s § 73 odst. 1, 2, 3 nebo 4 nebo v rozporu s čl. 116 nařízení o medikovaných krmivech, použije medikované krmivo v rozporu s § 73 odst. 5 nebo v rozporu s čl. 117 nařízení o medikovaných krmivech, uvede na trh medikované krmivo v rozporu s § 74 odst. 1, 2, 3 nebo 4, vydá medikované krmivo v rozporu s § 74 odst. 5 nebo jako chovatel, který chová zvířata nepodnikatelským způsobem, nepostupuje v souladu s § 73 odst. 7.*
+>
+> *(2) Fyzická osoba se jako osoba zacházející s léčivy dopustí přestupku tím, že*
+>
+> *- a) zachází s léčivy v rozporu s § 7 odst. 1 písm. b) nebo § 79 odst. 10 anebo předepíše léčivý přípravek na lékařský předpis s omezením v rozporu s § 39 odst. 4, nebo předepíše pacientovi léčivý přípravek na recept v listinné podobě v rozporu s § 81f,*
+>
+> *- b) při poskytování zdravotních služeb použije humánní léčivý přípravek v rozporu s § 8 odst. 1 až 5 nebo v rozporu s § 8 odst. 5 neoznámí předepsání nebo použití neregistrovaného léčivého přípravku,*
+>
+> *- c) při poskytování veterinární péče použije léčivý přípravek v rozporu s § 9nebo § 9a nebo čl. 106 odst. 1 nebo 5 nebo čl. 107 odst. 1 až 5 nařízení o veterinárních léčivých přípravcích nebo použije veterinární autogenní vakcínu v rozporu s § 72 odst. 1 nebo 3,*
+>
+> *- d) jako osoba podílející se na klinickém hodnocení nedodrží pravidla správné klinické praxe podle § 56 odst. 13 nebo správné klinické veterinární praxe podle § 61 odst. 1,*
+>
+> *- e) jako předkladatel léčebného programu pro humánní léčivý přípravek podléhající registraci centralizovaným postupem Evropské unie nezajistí v rozporu s přímo použitelným předpisem Evropské unie24) přístup pacientů zúčastněných v léčebném programu k danému léčivému přípravku v době mezi registrací a uvedením na trh,*
+>
+> *- f) předepíše léčivý přípravek s obsahem konopí pro léčebné použití v rozporu s § 79a odst. 1,*
+>
+> *- g) předepíše nebo podá léčivý přípravek s obsahem psilocybinu pro léčebné použití v rozporu s § 79a odst. 2,*
+>
+> *- h) předepíše léčivý přípravek s obsahem návykové látky nebo uvedené látky kategorie 1 podle přímo použitelného předpisu Evropské unie upravujícího prekursory drog v rozporu s § 80 odst. 8,*
+>
+> *- i) při poskytování zdravotních služeb postupuje v rozporu s § 79b.*
+>
+> *(3) Fyzická osoba se jako kvalifikovaná osoba výrobce humánních léčivých přípravků dopustí přestupku tím, že v rozporu s § 66 odst. 1 nezajistí, aby obal humánního léčivého přípravku byl opatřen ochrannými prvky podle § 37 odst. 7, nebo nezajistí, aby každá šarže humánního léčivého přípravku byla vyrobena a kontrolována v souladu s tímto zákonem, registrační dokumentací a rozhodnutím o registraci, nebo v rozporu s § 66 odst. 3 tuto skutečnost neosvědčí v registru nebo v rovnocenném dokumentu stanoveném k tomuto účelu nebo v rozporu s čl. 62 nařízení o klinickém hodnocení nezajistí, aby každá šarže hodnocených humánních léčivých přípravků vyráběných v Evropské unii nebo dovážených do Evropské unie byla v souladu s požadavky stanovenými v čl. 63 nařízení o klinickém hodnocení, a neosvědčí, že jsou tyto požadavky splněny.*
+>
+> *(4) Fyzická osoba se jako kvalifikovaná osoba zařízení transfuzní služby dopustí přestupku tím, že nezajistí odběr, vyšetření nebo zpracování každé jednotky krve a krevní složky nebo kontrolu, propuštění, skladování nebo distribuci každé jednotky humánního transfuzního přípravku nebo suroviny pro další výrobu podle § 67 odst. 7 písm. a).*
+>
+> *(5) Fyzická osoba se dopustí přestupku tím, že v rozporu s nařízením o klinickém hodnocení*
+>
+> *- a) jako zkoušející nebo hlavní zkoušející*
+>
+> *  - 1. nezajistí provádění klinického hodnocení v místě klinického hodnocení,*
+>
+> *  - 2. neudělí písemně ostatním členům týmu zkoušejících pokyny,*
+>
+> *  - 3. zahájí klinické hodnocení bez udělení informovaného souhlasu subjektu hodnocení nebo jeho zákonného zástupce s výjimkou těch případů, kdy tento souhlas není vyžadován, nebo písemného svolení k účasti nezletilé osoby, bylo-li pro dané klinické hodnocení vyžadováno,*
+>
+> *  - 4. zahájí klinické hodnocení bez sdělení kontaktních údajů subjektu hodnocení nebo jeho zákonnému zástupci,*
+>
+> *- b) jako zkoušející nezaznamená, nezdokumentuje nebo neohlásí nežádoucí příhodu nebo laboratorní odchylku,*
+>
+> *- c) nezajistí uchovávání zdrojových dat a dokumentace klinického hodnocení,*
+>
+> *- d) při provádění klinického hodnocení nepřijme okamžitá opatření k ochraně subjektů hodnocení,*
+>
+> *- e) provádí klinické hodnocení jako zkoušející, aniž splňuje podmínky stanovené nařízením o klinickém hodnocení anebo podmínky stanovené v § 54, nebo*
+>
+> *- f) při provádění klinického hodnocení nedodržuje zásady správné klinické praxe.*
+>
+> *(6) Fyzická osoba se jako veterinární lékař dopustí přestupku tím, že*
+>
+> *- a) použije léčivý přípravek v rozporu s § 9 nebo 9a,*
+>
+> *- b) jako hostující veterinární lékař poruší některou z povinností stanovenou v § 9 odst. 12 nebo § 102b odst. 1 nebo 2,*
+>
+> *- c) vede záznamy v rozporu s § 9 odst. 10, § 80a odst. 4 nebo § 82 odst. 3 písm. j),*
+>
+> *- d) vystaví předpis pro veterinární autogenní vakcínu v rozporu s § 71 odst. 2,*
+>
+> *- e) nesplní informační povinnost podle § 72 odst. 5,*
+>
+> *- f) předepíše medikované krmivo v rozporu s § 73 odst. 1, 3 nebo 4,*
+>
+> *- g) předepíše veterinární léčivý přípravek nebo léčivý přípravek v rozporu s § 73 odst. 2,*
+>
+> *- h) v rozporu s § 80a předepíše léčivý přípravek pro jiný účel než poskytování veterinární péče,*
+>
+> *- i) předepíše léčivý přípravek v rozporu s § 80a odst. 3 nebo v rozporu s čl. 105 odst. 3, 5 nebo 6 nařízení o veterinárních léčivých přípravcích,*
+>
+> *- j) nevystaví předpis na antimikrobní léčivý přípravek v souladu s čl. 105 odst. 1 nařízení o veterinárních léčivých přípravcích,*
+>
+> *- k) vydá léčivý přípravek v rozporu s podmínkami stanovenými v § 82 odst. 3 písm. j),*
+>
+> *- l) v rozporu s čl. 105 odst. 2 nařízení o veterinárních léčivých přípravcích neodůvodní vystavení předpisu na antimikrobní léčivý přípravek,*
+>
+> *- m) nedodrží některou z podmínek držení veterinárních léčivých přípravků stanovených v čl. 111 odst. 1 nařízení o veterinárních léčivých přípravcích,*
+>
+> *- n) ošetří zvíře v rozporu s čl. 112 až 114 nařízení o veterinárních léčivých přípravcích,*
+>
+> *- o) nestanoví ochrannou lhůtu v souladu s § 9 odst. 9, nebo*
+>
+> *- p) v případě odběru krve od zvířecího dárce postupuje v rozporu s § 68b.*
+>
+> *(7) Fyzická osoba se jako kvalifikovaná osoba odpovědná za farmakovigilanci dopustí přestupku tím, že nesplní některou z povinností podle čl. 78 odst. 1 nařízení o veterinárních léčivých přípravcích.*
+>
+> *(8) Fyzická osoba se jako zdravotnický pracovník dopustí přestupku tím, že*
+>
+> *- a) nesplní oznamovací povinnost podle § 93b odst. 1 písm. a), nebo*
+>
+> *- b) neposkytne součinnost nebo nezpřístupní dokumentaci podle § 93b odst. 1 písm. b).*
+>
+> *(9) Fyzická osoba se dopustí přestupku tím, že v rozporu s § 53a odst. 5 poruší povinnost zachovávat mlčenlivost.*
+>
+> *(10) Fyzická osoba se jako kvalifikovaná osoba výrobce veterinárních léčivých přípravků dopustí přestupku tím, že*
+>
+> *- a) poruší některou z povinností podle § 66a odst. 1 nebo 2,*
+>
+> *- b) v rozporu s čl. 97 odst. 6 nařízení o veterinárních léčivých přípravcích nezajistí, aby každá šarže veterinárního léčivého přípravku byla vyrobena v souladu se zásadami správné výrobní praxe nebo aby byla zkoušena v souladu s požadavky registrace, nebo nevypracuje o tom kontrolní zprávu,*
+>
+> *- c) v rozporu s čl. 97 odst. 7 nařízení o veterinárních léčivých přípravcích nezajistí kvalitativní nebo kvantitativní analýzu nebo jinou zkoušku dovezené výrobní šarže,*
+>
+> *- d) nevede záznamy pro každou uvolněnou šarži podle čl. 97 odst. 8 nařízení o veterinárních léčivých přípravcích, neaktualizuje je nebo je neuchovává po dobu stanovenou v tomto článku, nebo*
+>
+> *- e) v rozporu s čl. 97 odst. 9 nařízení o veterinárních léčivých přípravcích nepostupuje podle čl. 97 odst. 6 tohoto nařízení.*
+>
+> *(11) Za přestupek podle odstavců 1 až 10 lze uložit pokutu do*
+>
+> *- a) 100 000 Kč, jde-li o přestupek podle odstavce 1 písm. h), i), k), m) nebo n), odstavce 5 písm. a), odstavce 8 písm. b) nebo odstavce 10,*
+>
+> *- b) 300 000 Kč, jde-li o přestupek podle odstavce 3 nebo 4, odstavce 5 písm. b) nebo c), odstavce 8 písm. a) nebo odstavce 9,*
+>
+> *- c) 2 000 000 Kč, jde-li o přestupek podle odstavce 2 písm. a), b), f), g), h) nebo i), odstavce 5 písm. d), e) nebo f), odstavce 6 nebo 7,*
+>
+> *- d) 5 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. b), d), e), f) nebo o), odstavce 2 písm. c) nebo d), nebo*
+>
+> *- e) 20 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. a), c), g), j) nebo l) nebo odstavce 2 písm. e).*
+>
+> *(12) Za přestupek podle odstavců 3 až 6 lze uložit i zákaz činnosti, a to až na dobu 2 let.*
+>
+> *(13) Za přestupek podle odstavce 9 lze uložit i zákaz činnosti.*
 
 **Výklad — § 108 odst. 1:**
 
@@ -466,11 +605,11 @@ Velmi rozsáhlé zmocnění **Ministerstva zdravotnictví, Ministerstva zemědě
 >
 > *Zrušuje se:*
 >
-> *1. Zákon č. 79/1997 Sb., o léčivech a o změnách a doplnění některých souvisejících zákonů.*
+> *- 1. Zákon č. 79/1997 Sb., o léčivech a o změnách a doplnění některých souvisejících zákonů.*
 >
-> *2. Zákon č. 129/2003 Sb., kterým se mění zákon č. 79/1997 Sb., …*
+> *- 2. Zákon č. 129/2003 Sb., kterým se mění zákon č. 79/1997 Sb., o léčivech a o změnách a doplnění některých souvisejících zákonů.*
 >
-> *3. Vyhláška č. 343/2003 Sb..*
+> *- 3. Vyhláška č. 343/2003 Sb., kterou se vydává seznam rostlin využívaných pro farmaceutické a terapeutické účely.*
 
 § 115 derogičně ruší **předchozí zákon o léčivech č. 79/1997 Sb.**, jeho dílčí novelu a vyhlášku o lékopisných rostlinách. Symbolický **generační přechod** mezi dvěma kodifikacemi lékového práva v ČR.
 
@@ -480,7 +619,7 @@ Velmi rozsáhlé zmocnění **Ministerstva zdravotnictví, Ministerstva zemědě
 
 > **§ 116**
 >
-> *V zákoně č. 149/2000 Sb., kterým se mění zákon č. 79/1997 Sb., o léčivech …, se část první zrušuje.*
+> *V zákoně č. 149/2000 Sb., kterým se mění zákon č. 79/1997 Sb., o léčivech a o změnách a doplnění některých souvisejících zákonů, zákon č. 20/1966 Sb., o péči o zdraví lidu, ve znění pozdějších předpisů, a zákon č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění pozdějších předpisů, se část první zrušuje.*
 
 **Výklad:** Technické zrušení části první z. č. 149/2000 Sb. — bezpředmětné, protože novelizovaný zákon č. 79/1997 Sb. byl sám zrušen § 115 ZL. § 116 odstraňuje **doslovné zbytky** novelizační normy.
 
@@ -500,7 +639,7 @@ Velmi rozsáhlé zmocnění **Ministerstva zdravotnictví, Ministerstva zemědě
 
 > **§ 119**
 >
-> *Část druhá zákona č. 138/2002 Sb., kterým se mění zákon č. 40/1995 Sb., o regulaci reklamy …, a zákon č. 79/1997 Sb., o léčivech …, se zrušuje.*
+> *Část druhá zákona č. 138/2002 Sb., kterým se mění zákon č. 40/1995 Sb., o regulaci reklamy a o změně a doplnění zákona č. 468/1991 Sb., o provozování rozhlasového a televizního vysílání, ve znění pozdějších předpisů, a zákon č. 79/1997 Sb., o léčivech a o změnách a doplnění některých souvisejících zákonů, ve znění pozdějších předpisů, se zrušuje.*
 
 **Výklad:** Zrušení obsoletní novelizační části zákona č. 138/2002 Sb.
 
@@ -508,7 +647,7 @@ Velmi rozsáhlé zmocnění **Ministerstva zdravotnictví, Ministerstva zemědě
 
 > **§ 120**
 >
-> *Část sedmnáctá zákona č. 309/2002 Sb., o změně zákonů souvisejících s přijetím zákona o službě státních zaměstnanců …, se zrušuje.*
+> *Část sedmnáctá zákona č. 309/2002 Sb., o změně zákonů souvisejících s přijetím zákona o službě státních zaměstnanců ve správních úřadech a o odměňování těchto zaměstnanců a ostatních zaměstnanců ve správních úřadech (služební zákon), se zrušuje.*
 
 **Výklad:** Zrušení obsoletní novelizační části č. 309/2002 Sb. (tzv. doprovodný „služební zákon" balíček, který novelizoval mnoho zákonů včetně z. č. 79/1997 Sb.).
 
@@ -532,7 +671,7 @@ Velmi rozsáhlé zmocnění **Ministerstva zdravotnictví, Ministerstva zemědě
 
 > **§ 123**
 >
-> *Část čtvrtá zákona č. 228/2005 Sb., o kontrole obchodu s výrobky, jejichž držení se v České republice omezuje z bezpečnostních důvodů …, se zrušuje.*
+> *Část čtvrtá zákona č. 228/2005 Sb., o kontrole obchodu s výrobky, jejichž držení se v České republice omezuje z bezpečnostních důvodů, a o změně některých zákonů, se zrušuje.*
 
 **Výklad:** Zrušení obsoletní novelizační části.
 
@@ -540,7 +679,7 @@ Velmi rozsáhlé zmocnění **Ministerstva zdravotnictví, Ministerstva zemědě
 
 > **§ 124**
 >
-> *Část třetí zákona č. 74/2006 Sb., kterým se mění zákon č. 167/1998 Sb., o návykových látkách …, zákon č. 258/2000 Sb. …, a zákon č. 79/1997 Sb., o léčivech …, se zrušuje.*
+> *Část třetí zákona č. 74/2006 Sb., kterým se mění zákon č. 167/1998 Sb., o návykových látkách a o změně některých dalších zákonů, ve znění pozdějších předpisů, zákon č. 258/2000 Sb., o ochraně veřejného zdraví a o změně některých souvisejících předpisů, ve znění pozdějších předpisů, a zákon č. 79/1997 Sb., o léčivech a o změnách a doplnění některých souvisejících zákonů, ve znění pozdějších předpisů, se zrušuje.*
 
 **Výklad:** Zrušení obsoletní novely.
 

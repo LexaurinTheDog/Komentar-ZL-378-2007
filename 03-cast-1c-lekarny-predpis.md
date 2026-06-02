@@ -107,15 +107,123 @@ Odvolání proti rozhodnutí o pozastavení nebo zrušení povolení má v zása
 
 ### § 77 — Práva a povinnosti distributora
 
-> **§ 77 odst. 1** (vybrané písm.)
+> **§ 77**
 >
-> *Distributor je povinen*
+> *(1) Distributor je povinen*
 >
-> *- a) zpřístupnit prostory, instalace a zařízení využívané pro distribuci zaměstnancům orgánů oprávněných provádět kontrolu,*
+> *  - a) zpřístupnit prostory, instalace a zařízení využívané pro distribuci zaměstnancům orgánů oprávněných provádět kontrolu,*
 >
-> *- b) odebírat léčivé přípravky pouze [od jiného distributora, od výrobce (svých výrobků), z lékárenských vratek nebo z vratek od lékaře po očkování],*
+> *  - b) odebírat léčivé přípravky pouze*
 >
-> *- c) distribuovat léčivé přípravky pouze [taxativní katalog 15 typů odběratelů — distributoři, osoby oprávněné vydávat LP, prodejci vyhrazených LP, poskytovatelé zdravotních služeb (radiofarmaka, plyny, infuze), Armáda, Policie, Veterinární správa, chovatelé (jen registrované veterinární LP na recept), MAH (reklamní vzorky), výrobci medikovaných krmiv, krevní banky, lékaři (jen pro očkování), uživatelé pokusných zvířat]…*
+> *    - 1. od jiného distributora,*
+>
+> *    - 2. od výrobce, a to léčivé přípravky, které tento výrobce vyrábí nebo dováží,*
+>
+> *    - 3. vrácené lékárnou, které tento distributor lékárně dodal, nebo*
+>
+> *    - 4. vrácené lékařem, kterému tento distributor léčivé přípravky dodal za účelem očkování podle písmene c) bodu12,*
+>
+> *  - c) distribuovat léčivé přípravky, nejde-li o vývoz do třetí země, pouze*
+>
+> *    - 1. osobám, které jsou distributory,*
+>
+> *    - 2. osobám, které jsou oprávněny vydávat léčivé přípravky, nebo prodejcům vyhrazených léčivých přípravků, jde-li o vyhrazené léčivé přípravky,*
+>
+> *    - 3. osobám poskytujícím zdravotní služby, jde-li o plyny používané při poskytování zdravotních služeb nebo infuzní, hemofiltrační a dialyzační roztoky,*
+>
+> *    - 4. poskytovatelům zdravotních služeb podle § 82 odst. 2 písm. e), jde-li o radiofarmaka,*
+>
+> *    - 5. provozovatelům uvedeným v § 6 odst. 1 písm. d), jde-li o léčivé přípravky pro léčbu zvířat,*
+>
+> *    - 6. Státní veterinární správě, složkám, útvarům, popřípadě organizačním složkám státu v působnosti Ministerstva obrany, Ministerstva vnitra, Ministerstva spravedlnosti a Ministerstva financí, útvarům Policie České republiky a ozbrojeným silám České republiky, které podle § 9b zajišťují veterinární péči, jde-li o léčivé přípravky pro léčbu zvířat,*
+>
+> *    - 7. chovatelům, kteří jako podnikatelé chovají zvířata určená pro produkci potravin, na základě receptu vystaveného veterinárním lékařem podle § 80a, jde-li o registrované veterinární léčivé přípravky, a distribuce probíhá z místa, pro které Veterinární ústav vydal povolení podle § 76,*
+>
+> *    - 8. držitelům rozhodnutí o registraci, jde-li o reklamní vzorky léčivých přípravků; zacházení s reklamními vzorky podléhá zvláštnímu právnímu předpisu51),*
+>
+> *    - 9. obchodním zástupcům pověřeným držitelem rozhodnutí o registraci, jde-li o reklamní vzorky léčivých přípravků registrovaných tímto držitelem,*
+>
+> *    - 10. výrobcům oprávněným vyrábět medikovaná krmiva nebo meziprodukty podle zákona o krmivech, jde-li o veterinární léčivé přípravky registrované k výrobě medikovaných krmiv a léčivé přípravky, které lze pro medikované krmivo předepsat podle § 73,*
+>
+> *    - 11. krevním bankám, jde-li o humánní transfuzní přípravky, zařízením transfuzní služby, jde-li o humánní transfuzní přípravky a krevní deriváty, pokud je taková distribuce humánních transfuzních přípravků zadána zařízením transfuzní služby podle § 67 odst. 3,*
+>
+> *    - 12. lékařům, a to pouze humánní imunologické přípravky za účelem očkování,*
+>
+> *    - 13. lékařům, kteří je přímo použijí při poskytování zdravotních služeb, a to pouze léčivé přípravky pro moderní terapii,*
+>
+> *    - 14. obecní policii na základě předpisu veterinárního lékaře, a to pouze léčivé přípravky pro účel stanovený v § 9b odst. 3, a pokud distribuce probíhá z místa, pro které Veterinární ústav vydal povolení podle § 76, nebo*
+>
+> *    - 15. uživateli pokusných zvířat, a to pouze léčivé přípravky, které jsou stanoveny ve schváleném projektu pokusu123) a v souladu s dalšími podmínkami stanovenými v příslušném projektu pokusu,*
+>
+> *  - d) mít účinný systém k zajištění stažení léčivého přípravku z oběhu; v rámci tohoto systému je distributor povinen předat informace o závadách léčivých přípravků nebo jejich nežádoucích účincích neprodleně všem svým odběratelům, včetně prodejců vyhrazených léčivých přípravků, kterým takový přípravek distribuoval, a spolupracovat s výrobcem příslušného léčivého přípravku a s držitelem rozhodnutí o registraci,*
+>
+> *  - e) uchovávat záznamy, které musí být dostupné příslušným orgánům pro účely kontroly po dobu 5 let; prováděcí právní předpis stanoví způsob a rozsah uchovávání těchto záznamů,*
+>
+> *  - f) zajistit při dodávkách registrovaných léčivých přípravků evidenci těchto dodaných přípravků pomocí jejich kódů a tuto evidenci ukládat po dobu 5 let; distributor pravidelně poskytuje Ústavu úplné a správné údaje o objemu humánních léčivých přípravků, které distribuoval do lékáren a dalším poskytovatelům zdravotních služeb, jiným distributorům, prodejcům vyhrazených léčiv a provozovatelům veterinární péče, a o objemu reklamních vzorků, které dodal držitelům rozhodnutí o registraci nebo obchodním zástupcům, a Veterinárnímu ústavu úplné a správné údaje o objemu veterinárních léčivých přípravků, které distribuoval do lékáren, provozovatelům uvedeným v § 6 odst. 1 písm. d), chovatelům, výrobcům medikovaných krmiv nebo meziproduktů, jiným distributorům a prodejcům vyhrazených veterinárních léčivých přípravků, a to prostřednictvím informačního systému Veterinárního ústavu pro sběr dat podle § 102a až 102e, a na vyžádání Veterinárního ústavu dále údaje o objemu veterinárních léčivých přípravků, které distribuoval dalším osobám podle písmene c); poskytované údaje obsahují identifikaci distributora, identifikaci distribuovaného léčivého přípravku a identifikaci osoby podle písmene c), které byl léčivý přípravek distribuován v případě poskytovatele zdravotních služeb poskytujícího lékárenskou péči, distributora a zařízení transfuzní služby také identifikační kód pracoviště, a v případě humánního léčivého přípravku, který má stanovenou úhradu z veřejného zdravotního pojištění, také údaj o jeho ceně; dále distributor poskytuje elektronicky Ústavu údaje o množství humánního léčivého přípravku, který je označen příznakem „omezená dostupnost“ podle § 33b, které měl k dispozici ke konci dne předcházejícího dni označení tímto příznakem, a dále poskytují v pravidelných intervalech Ústavu elektronicky údaje o množství tohoto humánního léčivého přípravku, který mají k dispozici; v případě podezření Ústavu na ohrožení dostupnosti humánního léčivého přípravku mu distributor na výzvu poskytne elektronicky údaje o množství humánního léčivého přípravku uvedeného na trh v České republice, který má k dispozici; strukturu údajů, formu, způsob a časový interval jejich poskytování prostřednictvím elektronického hlášení stanoví v případě humánních léčivých přípravků prováděcí právní předpis a v případě veterinárních léčivých přípravků se pro hlášení použijí § 102a až 102e,*
+>
+> *  - g) dodržovat pravidla správné distribuční praxe, včetně požadavků na zajištění služeb kvalifikované osoby na zaměstnance, prostory, technická zařízení, dokumentaci a na systém pro stažení léčivých přípravků z oběhu a postupovat podle pokynů Komise a agentury; při distribuci postupuje podle upřesňujících pokynů Ústavu a Veterinárního ústavu; prováděcí právní předpis stanoví pravidla správné distribuční praxe pro humánní léčivé přípravky; pro veterinární léčivé přípravky se použijí pravidla správné distribuční praxe podle čl. 99 nařízení o veterinárních léčivých přípravcích a prováděcích aktů Komise vydaných na základě čl. 99 odst. 6 tohoto nařízení a dále pravidla správné distribuční praxe stanovená prováděcím právním předpisem,*
+>
+> *  - h) zajistit dodávky humánních léčivých přípravků provozovatelům oprávněným vydávat léčivé přípravky nebo vojenským poskytovatelům zdravotních služeb125) pro pacienty, kteří jsou vojáky v činné službě, v množství a časových intervalech odpovídajících potřebě pacientů v České republice; distributor nesmí při objednání humánních léčivých přípravků jakkoliv zvýhodnit konkrétního provozovatele oprávněného vydávat léčivé přípravky nebo vojenského distributora léčivých přípravků; dále je v případě humánního léčivého přípravku objednaného podle § 82 odst. 3 písm. h) nebo l) povinen zajistit jeho dodání do 2 pracovních dnů ode dne obdržení požadavku, má-li tento humánní léčivý přípravek k dispozici, pro požadavky vojenského poskytovatele zdravotních služeb to platí obdobně,*
+>
+> *  - i) v případě dovozu léčivého přípravku ze třetí země, který není registrován v žádném z členských států ani v rámci Evropské unie, prováděného podle § 8 odst. 3 až 5, uskutečnit dovoz až po vydání souhlasu Ústavu s tímto dovozem na základě vyžádání; to však neplatí, je-li dovoz takového léčivého přípravku odsouhlasen v rámci léčebného programu nebo se uskuteční podle § 8 odst. 6; souhlas Ústav nevydá, pokud dostupné informace o bezpečnosti, účinnosti a jakosti léčivého přípravku nedokládají dostatečně příznivý poměr prospěšnosti k riziku, který léčivý přípravek představuje; vyžádání musí obsahovat údaje o žadateli, léčivém přípravku jeho výrobci a příslušném poskytovateli zdravotních služeb; prováděcí právní předpis stanoví rozsah těchto údajů; v případě dovozu podle tohoto písmene se ustanovení § 66 odst. 1 písm. b) a § 75 odst. 7 neužijí,*
+>
+> *  - j) v případě, že léčivý přípravek získá od jiného distributora, ověřit, zda tento distributor dodržuje správnou distribuční praxi,*
+>
+> *  - k) v případě, že léčivý přípravek získá od výrobce daného léčivého přípravku, ověřit, zda má platné povolení k výrobě,*
+>
+> *  - l) v případě, že léčivý přípravek získá zprostředkováním, ověřit, zda zprostředkovatel splňuje požadavky stanovené tímto zákonem,*
+>
+> *  - m) ověřit, zda obdržené humánní léčivé přípravky nejsou padělané, a to kontrolou ochranných prvků na vnějším obalu podle přímo použitelného předpisu Evropské unie nebo pokynu Komise,*
+>
+> *  - n) vytvořit a udržovat účinný systém zabezpečování jakosti, který stanoví odpovědnosti, postupy a opatření pro řízení rizik v souvislosti s jeho činností,*
+>
+> *  - o) neprodleně informovat Ústav a držitele rozhodnutí o registraci o humánním léčivém přípravku, který obdržel nebo mu byl nabídnut a u něhož zjistil, že se jedná o padělaný humánní léčivý přípravek nebo u kterého existuje takové podezření,*
+>
+> *  - p) v případě, že humánní léčivý přípravek odebírá od osoby ze třetí země nebo dodává osobě do třetí země, ověřit, zda je tato osoba oprávněna odebírat nebo dodávat humánní léčivé přípravky podle předpisů dané země,*
+>
+> *  - q) v případě, že je jeho záměrem distribuovat do zahraničí humánní léčivý přípravek, který je uveden na seznamu léčivých přípravků podle § 77c, oznámit tuto skutečnost před uskutečněním distribuce Ústavu; oznámení je poskytováno elektronicky a obsahuje identifikaci distributora, identifikaci humánního léčivého přípravku, množství humánního léčivého přípravku v měrných jednotkách, název státu distribuce a datum plánované distribuce humánního léčivého přípravku; strukturu údajů uváděných v oznámení, způsob a formu jejich poskytování prostřednictvím elektronického hlášení stanoví prováděcí právní předpis; distributor smí uskutečnit záměr distribuovat humánní léčivý přípravek až po uplynutí 15 pracovních dnů ode dne, kdy tento záměr oznámil, pokud v této lhůtě nebylo vydáno opatření obecné povahy podle § 77d ve vztahu k danému léčivému přípravku; v případě, že po oznámení distributora nebylo do dne, kterým uplyne 15 dnů pracovních ode dne, kdy distributor oznámil záměr distribuovat humánní léčivý přípravek, vydáno opatření obecné povahy podle § 77d ve vztahu k danému léčivému přípravku, může distributor provést zamýšlenou distribuci v původně ohlášeném rozsahu,*
+>
+> *  - r) ověřit ochranné prvky a provést vyřazení jedinečného identifikátoru postupem podle nařízení o ochranných prvcích před tím, než humánní léčivý přípravek dodá*
+>
+> *    - 1. provozovateli uvedenému v § 6 odst. 1 písm. d),*
+>
+> *    - 2. Armádě České republiky k zabezpečení ozbrojených sil České republiky léčivy a k udržování skladových zásob léčivých přípravků pro účely zabezpečení ozbrojených sil České republiky léčivy při jejich vysílání do zahraničí podle § 111a, nebo*
+>
+> *    - 3. poskytovatelům zdravotních služeb, kterým jsou podle § 77 odst. 1 písm. c) bodu 12 dodávány imunologické léčivé přípravky pro účely očkování,*
+>
+> *  - s) v případě humánního léčivého přípravku označeného příznakem „omezená dostupnost“, který byl držitelem rozhodnutí o registraci určený pro trh v České republice, takový humánní léčivý přípravek nedistribuovat do zahraničí,*
+>
+> *  - t) v případě mimořádných situací v oblasti veřejného zdraví a závažných událostí podle čl. 2 nařízení o posílené úloze na žádost Ústavu a ve lhůtě jím stanovené poskytnout informace podle čl. 11 odst. 2 nařízení o posílené úloze o léčivých přípravcích zapsaných na seznam kriticky důležitých léčivých přípravků podle čl. 6 nařízení o posílené úloze.*
+>
+> *(2) Distributor je oprávněn smluvně sjednat část distribuce léčivých přípravků u jiné osoby, přičemž jeho odpovědnost za škodu v takovém případě zůstává nedotčena. Distributor si ve smlouvě sjedná právo kontrolovat u této osoby dodržování správné distribuční praxe.*
+>
+> *(3) Každá dodávka léčivého přípravku osobám oprávněným vydávat léčivé přípravky nebo prodávat vyhrazené léčivé přípravky a v případě veterinárních léčivých přípravků dále osobám podle odstavce 1 písm. c) bodu 6, 7, 10, 14 nebo 15 musí být doprovázena dokumentací, která umožní sledování cesty distribuce léčivého přípravku. Tato dokumentace obsahuje údaje o léčivém přípravku včetně čísla šarže a kódu, o dodavateli a odběrateli léčivého přípravku, místu dodání a časové údaje o distribuci, a to v rozsahu stanoveném prováděcím právním předpisem. V případě, že je léčivý přípravek odebírán provozovatelem lékárny, který je současně držitelem povolení k distribuci, musí být v této dokumentaci uvedeno, zda odběratel odebírá léčivé přípravky jako provozovatel lékárny nebo jako distributor. V případě veterinárních léčivých přípravků musí dokumentace podle věty první dále obsahovat údaje podle § 102b odst. 2.*
+>
+> *(4) Distributor je povinen před zahájením distribuce léčivé látky nebo pomocné látky osobám oprávněným léčivé přípravky připravovat, nebo plynů používaných při poskytování zdravotních služeb osobám oprávněným je používat při poskytování zdravotních služeb, nebo lidské krve a jejích složek nebo plynů používaných při poskytování veterinární péče osobám podle odstavce 1 písm. c) bodu 5 nebo 6, podat žádost o rozšíření rozsahu povolení k distribuci Ústavu nebo Veterinárnímu ústavu. Ústav nebo Veterinární ústav rozšíření rozsahu povolení k distribuci povolí po ověření splnění podmínek stanovených tímto zákonem.*
+>
+> *(5) Distributor s rozsahem povolení zahrnujícím distribuci léčivých látek a pomocných látek je, kromě povinností distributora uvedených v odstavcích 1 až 3, dále povinen*
+>
+> *  - a) dodávat osobám oprávněným léčivé přípravky připravovat pouze takové léčivé látky a pomocné látky, jejichž jakost je ověřena*
+>
+> *    - 1. kontrolní laboratoří s rozsahem činnosti pro kontrolu léčivých látek a pomocných látek,*
+>
+> *    - 2. výrobcem, v rozsahu jehož činnosti je kontrola léčivých látek a pomocných látek,*
+>
+> *    - 3. výrobcem surovin, který je držitelem platného certifikátu správné výrobní praxe při výrobě surovin, nebo*
+>
+> *    - 4. v rámci Evropské unie způsobem, který je alespoň rovnocenný požadavkům na ověření jakosti léčivých a pomocných látek podle bodů 1 až 3;*
+>
+> *osobám uvedeným v bodech 1 až 3 Ústav nebo Veterinární ústav přidělí evidenční číslo, kterým jsou tyto osoby povinny označovat jimi vydané certifikáty dokládající jakost léčivých látek a pomocných látek; prováděcí právní předpis stanoví rozsah a způsob ověřování podle bodu 4,*
+>
+> *  - b) dodávat léčivé látky a pomocné látky osobám oprávněným připravovat léčivé přípravky způsobem stanoveným prováděcím právním předpisem,*
+>
+> *  - c) mít účinný systém k zajištění stažení léčivé látky nebo pomocné látky z oběhu podle odstavce 1 písm. d) obdobně.*
+>
+> *(6) K zajištění dostupnosti veterinárních léčivých přípravků, a to zejména při vzniku krizových situací, může distributor s povolením k distribuci veterinárních léčivých přípravků vydaným Veterinárním ústavem podat Veterinárnímu ústavu žádost o rozšíření rozsahu povolení k distribuci spočívající v možnosti dodávek veterinárních léčivých přípravků jiným chovatelům než uvedeným v odstavci 1 písm. c) bodu 7 na základě receptu vystaveného veterinárním lékařem podle § 80a. Veterinární ústav rozšíření rozsahu povolení k distribuci může povolit po ověření splnění podmínek stanovených tímto zákonem a stanovit podmínky k ochraně zdraví veřejnosti, zvířat a životního prostředí.*
+>
+> *(7) V případě, že distributor, který není držitelem rozhodnutí o registraci tohoto léčivého přípravku, zamýšlí distribuovat z jiného členského státu do České republiky léčivé přípravky, kterým byla udělena registrace podle přímo použitelného předpisu Evropské unie upravujícího postup při registraci a dozoru nad léčivými přípravky24), je povinen tento svůj úmysl oznámit držiteli rozhodnutí o registraci a agentuře.*
+>
+> *(8) Jestliže je léčivý přípravek získán přímo ze třetí země, avšak jde o zboží propuštěné v České republice do celního režimu tranzitu, nepoužije se odstavec 1 písm. b) a m).*
 
 **Výklad:**
 
@@ -258,23 +366,45 @@ Veterinární ústav koordinuje dozor; spolupracuje s Ústavem (SÚKL — pro li
 >
 > *(1) Léčivé přípravky lze připravovat pouze*
 >
-> *- a) na základě lékařského předpisu pro jednotlivého pacienta,*
+> *  - a) na základě lékařského předpisu pro jednotlivého pacienta,*
 >
-> *- b) v souladu s Českým lékopisem, nebo*
+> *  - b) v souladu s Českým lékopisem, nebo*
 >
-> *- c) na základě technologického předpisu zpracovaného osobou oprávněnou k přípravě, pokud pro připravovaný léčivý přípravek není uveden příslušný článek v Českém lékopisu; prováděcí právní předpis stanoví obsah a způsob zpracování technologického předpisu.*
+> *  - c) na základě technologického předpisu zpracovaného osobou oprávněnou k přípravě, pokud pro připravovaný léčivý přípravek není uveden příslušný článek v Českém lékopisu; prováděcí právní předpis stanoví obsah a způsob zpracování technologického předpisu.*
 >
 > *(2) Léčivé přípravky se mohou připravovat pouze*
 >
-> *- a) v lékárně,*
+> *  - a) v lékárně,*
 >
-> *- b) na pracovišti nukleární medicíny poskytovatele zdravotních služeb, jde-li o radiofarmaka, nebo*
+> *  - b) na pracovišti nukleární medicíny poskytovatele zdravotních služeb, jde-li o radiofarmaka, nebo*
 >
-> *- c) na imunologickém nebo mikrobiologickém pracovišti poskytovatele zdravotních služeb nebo u poskytovatele zdravotních služeb vykonávajícím činnost podle zvláštního právního předpisu70), jde-li o humánní autogenní vakcíny.*
+> *  - c) na imunologickém nebo mikrobiologickém pracovišti poskytovatele zdravotních služeb nebo u poskytovatele zdravotních služeb vykonávajícím činnost podle zvláštního právního předpisu70), jde-li o humánní autogenní vakcíny.*
 >
-> *(…)*
+> *Prováděcí právní předpis stanoví rozsah a způsob přípravy na jednotlivých zdravotnických pracovištích, včetně správné lékárenské praxe.*
+>
+> *(3) Poskytovatel zdravotních služeb, který připravuje léčivé přípravky podle odstavce 2, je povinen zajistit jakost připravovaných léčivých přípravků a při své činnosti dodržovat pravidla správné lékárenské praxe; dále postupuje podle upřesňujících pokynů Ústavu vydaných v jeho informačním prostředku.*
+>
+> *(4) Právnická nebo fyzická osoba provozující lékárnu (dále jen „provozovatel lékárny“) je povinen nejpozději do 15 dnů oznámit zahájení a ukončení své činnosti Ústavu. Poskytovatel zdravotních služeb podle odstavce 2 písm. b) a c) je povinen stejným způsobem oznámit zahájení a ukončení své činnosti, pokud jde o přípravu léčivých přípravků, Ústavu. V rámci dozoru je Ústav oprávněn zakázat přípravu léčivých přípravků podle technologických předpisů, které nezajišťují jakost, účinnost a bezpečnost připravovaných léčivých přípravků.*
+>
+> *(5) Odborným předpokladem pro zacházení s léčivy, je-li prováděno v lékárnách, je způsobilost k výkonu zdravotnického povolání farmaceuta nebo farmaceutického asistenta podle zvláštních právních předpisů29).*
 >
 > *(6) Poskytovatel lékárenských zdravotních služeb musí mít pro každou lékárnu ustanovenu nejméně 1 osobu se specializovanou způsobilostí farmaceuta31) (dále jen „vedoucí lékárník“) odpovědnou za to, že zacházení s léčivy v lékárně odpovídá tomuto zákonu. Vedoucím lékárníkem může být poskytovatel lékárenských zdravotních služeb, pokud splňuje kvalifikační požadavky podle věty první. V lékárně po dobu jejího provozu musí být vždy přítomen vedoucí lékárník nebo jím pověřený farmaceut. Stejná osoba může být ustanovena vedoucím lékárníkem jen pro jednu lékárnu.*
+>
+> *(7) Poskytovatel zdravotních služeb podle odstavce 2 písm. b) a c), které připravuje léčivé přípravky, musí ustanovit nejméně jednu osobu odpovědnou za to, že činnost daného poskytovatele zdravotních služeb odpovídá při přípravě a zacházení s léčivy tomuto zákonu, že technologické postupy přípravy zajišťují jakost, účinnost a bezpečnost připravovaných léčivých přípravků a že na přípravě, výdeji a dalším zacházení s léčivy se podílejí pouze osoby s potřebnou kvalifikací29). Odborným předpokladem pro tuto odpovědnou osobu je způsobilost k výkonu zdravotnického povolání farmaceuta31) nebo lékaře31) nebo vysokoškolské vzdělání v oblasti chemie nebo biologie a specializovaná způsobilost v oboru činnosti a 3 roky odborné praxe v tomto oboru.*
+>
+> *(8) Pro přípravu léčivých přípravků lze použít pouze*
+>
+> *  - a) léčivé látky a pomocné látky uvedené v Českém lékopisu nebo v seznamu stanoveném prováděcím právním předpisem nebo k jejichž použití bylo vydáno povolení Ministerstvem zdravotnictví podle § 11 písm. b) nebo Ústřední veterinární správou podle § 15 písm. d); způsob doložení jakosti léčivých látek a pomocných látek stanoví prováděcí právní předpis,*
+>
+> *  - b) patogeny nebo antigeny odebrané od konkrétních pacientů, jde-li o přípravu humánních autogenních vakcín,*
+>
+> *  - c) registrované léčivé přípravky, je-li tento způsob použití uveden ve schváleném souhrnu údajů o přípravku nebo je-li stanoven prováděcím právním předpisem,*
+>
+> *  - d) léčivé přípravky určené pro použití při poskytování veterinární péče, pokud je to v souladu s podmínkami stanovenými v povolení podle § 46, 47 nebo 48.*
+>
+> *(9) Připravované léčivé přípravky, popřípadě léčivé látky a pomocné látky určené k přípravě léčivých přípravků, může lékárna odebírat i od jiné lékárny. V rozhodnutí vydaném podle zvláštního právního předpisu71) lékárně, která léčivé přípravky připravuje nebo léčivé látky a pomocné látky kontroluje, však musí být rozsah přípravy, kontroly a odebírající lékárna výslovně uvedeny.*
+>
+> *(10) Provádět úpravu léčivých přípravků podle § 5 odst. 4 jsou při dodržení podmínek stanovených zvláštními právními předpisy72) a ustanovení § 23 oprávněni při poskytování zdravotních služeb pouze zdravotničtí pracovníci pověření poskytovatelem zdravotních služeb. Prováděcí právní předpis stanoví rozsah postupů považovaných za úpravu a vymezení technických podmínek úpravy pro zvláštní skupiny léčivých přípravků. Prováděcí právní předpis dále stanoví způsob zacházení s léčivými přípravky odebíranými poskytovatelem zdravotních služeb, jejich uchovávání a dokumentaci.*
 
 **Výklad:**
 

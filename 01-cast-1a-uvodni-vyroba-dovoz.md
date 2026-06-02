@@ -126,15 +126,15 @@ Pojem **léčivé látky** je klíčový pro řadu povinností: identifikace v s
 >
 > *(1) Souhrnem údajů o přípravku se rozumí písemné shrnutí informací o léčivém přípravku, které je součástí rozhodnutí o registraci léčivého přípravku a obsahuje informace podstatné pro jeho správné používání.*
 >
-> *(2) Ochrannou lhůtou se pro účely tohoto zákona rozumí období uvedené v čl. 4 bodě 34 nařízení Evropského parlamentu a Rady (EU) 2019/6 ze dne 11. prosince 2018 o veterinárních léčivých přípravcích a o zrušení směrnice 2001/82/ES (dále jen „nařízení o veterinárních léčivých přípravcích"); to platí i pro jiné léčivé přípravky použité podle čl. 113 a 114 tohoto nařízení.*
+> *(2) Ochrannou lhůtou se pro účely tohoto zákona rozumí období uvedené v čl. 4 bodě 34 nařízení Evropského parlamentu a Rady (EU) 2019/6 ze dne 11. prosince 2018 o veterinárních léčivých přípravcích a o zrušení směrnice 2001/82/ES (dále jen „nařízení o veterinárních léčivých přípravcích“); to platí i pro jiné léčivé přípravky použité podle čl. 113 a 114 tohoto nařízení.*
 >
-> *(3) Farmakovigilancí humánních léčivých přípravků se rozumí dohled nad léčivými přípravky směřující k zajištění bezpečnosti a co nejpříznivějšího poměru rizika a prospěšnosti léčivého přípravku. Farmakovigilancí veterinárních léčivých přípravků se rozumí činnosti uvedené v čl. 4 bodě 30 nařízení o veterinárních léčivých přípravcích. […]*
+> *(3) Farmakovigilancí humánních léčivých přípravků se rozumí dohled nad léčivými přípravky směřující k zajištění bezpečnosti a co nejpříznivějšího poměru rizika a prospěšnosti léčivého přípravku. Farmakovigilancí veterinárních léčivých přípravků se rozumí činnosti uvedené v čl. 4 bodě 30 nařízení o veterinárních léčivých přípravcích. Farmakovigilance léčivých přípravků zahrnuje zejména shromažďování informací významných pro bezpečnost léčivého přípravku, včetně informací získaných prostřednictvím klinických hodnocení, jejich vyhodnocování a provádění příslušných opatření.*
 >
-> *(4) Nežádoucím účinkem humánního léčivého přípravku se pro účely tohoto zákona rozumí odezva na léčivý přípravek, která je nepříznivá a nezamýšlená. […] Nežádoucí účinky léčivých přípravků se rozlišují zejména na*
+> *(4) Nežádoucím účinkem humánního léčivého přípravku se pro účely tohoto zákona rozumí odezva na léčivý přípravek, která je nepříznivá a nezamýšlená. Nežádoucím účinkem veterinárního léčivého přípravku se pro účely tohoto zákona rozumí nepříznivá a nezamýšlená odezva, která se dostaví po jeho použití za podmínek jeho registrace nebo mimo podmínky jeho registrace, a to obvykle po dávce běžně užívané k profylaxi, léčení nebo stanovení diagnózy onemocnění nebo k obnově, úpravě nebo jinému ovlivnění fyziologických funkcí; v případě klinického hodnocení veterinárního léčivého přípravku jde o nepříznivou a nezamýšlenou odezvu po podání jakékoli dávky. Toto vymezení se nevztahuje na humánní transfuzní přípravky. Nežádoucí účinky léčivých přípravků se rozlišují zejména na*
 >
 > *- a) závažné nežádoucí účinky, které mají za následek smrt, ohrozí život, vyžadují hospitalizaci nebo prodloužení probíhající hospitalizace, mají za následek trvalé či významné poškození zdraví nebo omezení schopností nebo se projeví jako vrozená anomálie či vrozená vada u potomků,*
 >
-> *- b) neočekávané nežádoucí účinky, jejichž povaha, závažnost nebo důsledek jsou v rozporu s informacemi uvedenými v souhrnu údajů o přípravku […],*
+> *- b) neočekávané nežádoucí účinky, jejichž povaha, závažnost nebo důsledek jsou v rozporu s informacemi uvedenými v souhrnu údajů o přípravku u registrovaného léčivého přípravku nebo jsou v rozporu s dostupnými informacemi, například se souborem informací pro zkoušejícího u hodnoceného léčivého přípravku, který není registrován,*
 >
 > *- c) nežádoucí účinky, které se v souvislosti s použitím veterinárního léčivého přípravku vyskytly u člověka.*
 >
@@ -142,9 +142,9 @@ Pojem **léčivé látky** je klíčový pro řadu povinností: identifikace v s
 >
 > *(6) Závažnou nežádoucí příhodou se pro účely tohoto zákona rozumí taková nežádoucí příhoda, která má za následek smrt, ohrozí život, vyžaduje hospitalizaci nebo prodloužení probíhající hospitalizace, má za následek trvalé nebo významné poškození zdraví nebo omezení schopností nebo se projeví jako vrozená anomálie nebo vrozená vada u potomků, a to bez ohledu na použitou dávku humánního léčivého přípravku.*
 >
-> *(7) Poregistrační studií bezpečnosti u veterinárního léčivého přípravku se […] rozumí farmakoepidemiologická studie nebo klinické hodnocení prováděné v souladu s rozhodnutím o registraci a za účelem identifikace nebo kvantifikace bezpečnostního rizika ve vztahu k registrovanému léčivému přípravku.*
+> *(7) Poregistrační studií bezpečnosti u veterinárního léčivého přípravku se pro účely tohoto zákona rozumí farmakoepidemiologická studie nebo klinické hodnocení prováděné v souladu s rozhodnutím o registraci a za účelem identifikace nebo kvantifikace bezpečnostního rizika ve vztahu k registrovanému léčivému přípravku.*
 >
-> *(8) Rizikem souvisejícím s použitím léčivého přípravku se […] rozumí*
+> *(8) Rizikem souvisejícím s použitím léčivého přípravku se pro účely tohoto zákona rozumí*
 >
 > *- a) riziko související s jakostí, bezpečností nebo účinností léčivého přípravku pro zdraví člověka, veřejné zdraví nebo zdraví zvířete,*
 >
@@ -154,7 +154,7 @@ Pojem **léčivé látky** je klíčový pro řadu povinností: identifikace v s
 >
 > *(9) Poměrem rizika a prospěšnosti se rozumí hodnocení pozitivních léčebných účinků léčivého přípravku ve vztahu k rizikům uvedeným v odstavci 8. Poměr rizika a prospěšnosti je příznivý, jestliže prospěch z použití léčivého přípravku převažuje nad riziky souvisejícími s jeho použitím.*
 >
-> *(10) Hemovigilancí se rozumí soubor systematických postupů pro dohled nad humánními transfuzními přípravky a surovinami z krve a jejích složek pro další výrobu […].*
+> *(10) Hemovigilancí se rozumí soubor systematických postupů pro dohled nad humánními transfuzními přípravky a surovinami z krve a jejích složek pro další výrobu (dále jen „surovina pro další výrobu“) týkající se závažných nežádoucích nebo neočekávaných událostí nebo reakcí u dárců nebo příjemců, a epidemiologické sledování dárců.*
 
 **Výklad:**
 
@@ -212,23 +212,23 @@ Specializovaný dohledový systém pro **transfuzní přípravky a suroviny z kr
 >
 > *(1) Poregistrační studií bezpečnosti u humánního léčivého přípravku se pro účely tohoto zákona rozumí jakákoli studie týkající se registrovaného humánního léčivého přípravku prováděná za účelem zjištění, popsání nebo kvantifikace bezpečnostního rizika, potvrzení bezpečnostního profilu tohoto léčivého přípravku nebo zjištění míry účinnosti opatření prováděných v rámci řízení rizik.*
 >
-> *(2) Neintervenční poregistrační studií u humánního léčivého přípravku se […] rozumí jakákoli studie, při níž je registrovaný léčivý přípravek používán běžným způsobem a v souladu s podmínkami jeho registrace […]*
+> *(2) Neintervenční poregistrační studií u humánního léčivého přípravku se pro účely tohoto zákona rozumí jakákoli studie, při níž je registrovaný léčivý přípravek používán běžným způsobem a v souladu s podmínkami jeho registrace a při níž použití léčivého přípravku není určeno zařazením pacienta do takové studie, ale rozhodnutím ošetřujícího lékaře nebo zubního lékaře (dále jen „lékař“), přičemž u pacientů se nepoužijí žádné dodatečné diagnostické nebo monitorovací postupy a pro analýzu shromážděných údajů se použijí epidemiologické metody; neintervenční poregistrační studie zahrnují zejména studie epidemiologické, farmakoekonomické a výzkumné.*
 >
-> *(3) Farmakovigilančním systémem se […] rozumí systém sledování a hlášení využívaný držiteli rozhodnutí o registraci a orgány vykonávajícími státní správu v oblasti léčiv […]*
+> *(3) Farmakovigilančním systémem se pro účely tohoto zákona rozumí systém sledování a hlášení využívaný držiteli rozhodnutí o registraci a orgány vykonávajícími státní správu v oblasti léčiv k plnění úkolů a zajištění povinností uvedených v hlavě páté tohoto zákona na úseku farmakovigilance a určený ke sledování bezpečnosti registrovaných léčivých přípravků a ke zjišťování jakýchkoli změn v poměru jejich rizika a prospěšnosti.*
 >
-> *(4) Základním dokumentem farmakovigilančního systému se […] rozumí podrobný popis farmakovigilančního systému používaného držitelem rozhodnutí o registraci pro jeden nebo více registrovaných léčivých přípravků.*
+> *(4) Základním dokumentem farmakovigilančního systému se pro účely tohoto zákona rozumí podrobný popis farmakovigilančního systému používaného držitelem rozhodnutí o registraci pro jeden nebo více registrovaných léčivých přípravků.*
 >
-> *(5) Systémem řízení rizik se […] rozumí soubor farmakovigilančních činností a zásahů určených ke zjišťování, popisu, prevenci nebo snížení rizik spojených s léčivým přípravkem […]*
+> *(5) Systémem řízení rizik se pro účely tohoto zákona rozumí soubor farmakovigilančních činností a zásahů určených ke zjišťování, popisu, prevenci nebo snížení rizik spojených s léčivým přípravkem, a to včetně posuzování míry účinnosti těchto činností a zásahů.*
 >
-> *(6) Plánem řízení rizik se […] rozumí podrobný popis systému řízení rizik.*
+> *(6) Plánem řízení rizik se pro účely tohoto zákona rozumí podrobný popis systému řízení rizik.*
 >
-> *(7) Závažnou nežádoucí reakcí se […] rozumí nezamýšlená odezva dárce nebo pacienta související s odběrem krve nebo její složky nebo s transfuzí humánního transfuzního přípravku, která má za následek smrt, ohrožení života, trvalé nebo významné poškození zdraví nebo omezení schopností pacienta, nebo vyžaduje hospitalizaci nebo prodloužení probíhající hospitalizace.*
+> *(7) Závažnou nežádoucí reakcí se pro účely tohoto zákona rozumí nezamýšlená odezva dárce nebo pacienta související s odběrem krve nebo její složky nebo s transfuzí humánního transfuzního přípravku, která má za následek smrt, ohrožení života, trvalé nebo významné poškození zdraví nebo omezení schopností pacienta, nebo vyžaduje hospitalizaci nebo prodloužení probíhající hospitalizace.*
 >
-> *(8) Závažnou nežádoucí událostí se […] rozumí nepříznivá skutečnost související s odběrem krve nebo jejích složek, vyšetřením, zpracováním, skladováním a distribucí propuštěného humánního transfuzního přípravku […]*
+> *(8) Závažnou nežádoucí událostí se pro účely tohoto zákona rozumí nepříznivá skutečnost související s odběrem krve nebo jejích složek, vyšetřením, zpracováním, skladováním a distribucí propuštěného humánního transfuzního přípravku nebo suroviny pro další výrobu nebo výdejem humánního transfuzního přípravku, která by mohla mít za následek smrt, ohrožení života, trvalé nebo významné poškození zdraví nebo omezení schopností pacienta.*
 >
-> *(9) Referenčními látkami se […] rozumějí látky s definovanou čistotou, které mají platné osvědčení s uvedením jakosti a doby použitelnosti.*
+> *(9) Referenčními látkami se pro účely tohoto zákona rozumějí látky s definovanou čistotou, které mají platné osvědčení s uvedením jakosti a doby použitelnosti.*
 >
-> *(10) Uvedením léčivého přípravku na trh v České republice se […] rozumí jeho předání po dokončení výroby, dodání z jiného členského státu nebo uskutečnění dovozu, které jsou provedeny za účelem distribuce léčivého přípravku vyjma jeho použití v rámci klinického hodnocení.*
+> *(10) Uvedením léčivého přípravku na trh v České republice se pro účely tohoto zákona rozumí jeho předání po dokončení výroby, dodání z jiného členského státu nebo uskutečnění dovozu, které jsou provedeny za účelem distribuce léčivého přípravku vyjma jeho použití v rámci klinického hodnocení.*
 
 **Výklad:**
 
@@ -272,11 +272,11 @@ Klíčová definice pro **rozlišení distribučních fází**: „uvedením na 
 >
 > *(4) Příbalovou informací se rozumí písemná informace pro uživatele, která je součástí léčivého přípravku.*
 >
-> *(5) Šarží se […] rozumí množství výrobku vyrobené nebo připravené v jednom výrobním cyklu, nebo postupu anebo zhomogenizované během přípravy nebo výroby. Základním znakem šarže je stejnorodost všech jednotek výrobku tvořících danou šarži.*
+> *(5) Šarží se pro účely tohoto zákona rozumí množství výrobku vyrobené nebo připravené v jednom výrobním cyklu, nebo postupu anebo zhomogenizované během přípravy nebo výroby. Základním znakem šarže je stejnorodost všech jednotek výrobku tvořících danou šarži.*
 >
 > *(6) Zařízením transfuzní služby se rozumí poskytovatel zdravotních služeb, u kterého se provádí odběr a vyšetření lidské krve nebo jejích složek, pokud jsou určeny pro transfuzi nebo zpracování za jakýmkoli účelem, a ve kterém se dále provádí zpracování lidské krve nebo jejích složek za účelem získání humánních transfuzních přípravků nebo surovin pro další výrobu humánních léčivých přípravků, včetně kontroly a propouštění, dále jejich skladování a distribuce. Za zařízení transfuzní služby se nepovažuje krevní banka.*
 >
-> *(7) Krevní bankou se rozumí organizační jednotka poskytovatele zdravotních služeb, ve které se skladují a vydávají humánní transfuzní přípravky, a to výlučně pro použití u poskytovatele zdravotních služeb, popřípadě ve které se provádí předtransfuzní imunohematologické vyšetření. […]*
+> *(7) Krevní bankou se rozumí organizační jednotka poskytovatele zdravotních služeb, ve které se skladují a vydávají humánní transfuzní přípravky, a to výlučně pro použití u poskytovatele zdravotních služeb, popřípadě ve které se provádí předtransfuzní imunohematologické vyšetření. Postup pro výdej humánních transfuzních přípravků stanoví prováděcí právní předpis.*
 
 **Výklad:**
 
@@ -314,43 +314,61 @@ Toto rozlišení odráží směrnici 2002/98/ES, která zavádí jednotné stand
 
 > **§ 5**
 >
-> *(1) Zacházením s léčivy se […] rozumí jejich výzkum, příprava, úprava, kontrola, výroba, distribuce, skladování a uchovávání, dodávání a přeprava, nabízení za účelem prodeje, výdej, prodej držení za účelem podnikání, poskytování reklamních vzorků, používání léčivých přípravků při poskytování zdravotních služeb nebo veterinární péče nebo odstraňování léčiv.*
+> *(1) Zacházením s léčivy se pro účely tohoto zákona rozumí jejich výzkum, příprava, úprava, kontrola, výroba, distribuce, skladování a uchovávání, dodávání a přeprava, nabízení za účelem prodeje, výdej, prodej držení za účelem podnikání, poskytování reklamních vzorků, používání léčivých přípravků při poskytování zdravotních služeb nebo veterinární péče nebo odstraňování léčiv.*
 >
-> *(2) Výzkumem léčiv se […] rozumí neklinické hodnocení bezpečnosti léčiv a klinické hodnocení léčivých přípravků s cílem prokázat jejich účinnost, bezpečnost nebo jakost.*
+> *(2) Výzkumem léčiv se pro účely tohoto zákona rozumí neklinické hodnocení bezpečnosti léčiv a klinické hodnocení léčivých přípravků s cílem prokázat jejich účinnost, bezpečnost nebo jakost.*
 >
 > *(3) Přípravou léčivých přípravků se rozumí jejich zhotovování v lékárně nebo v dalších pracovištích, kde lze léčivé přípravky připravovat podle § 79 odst. 2.*
 >
-> *(4) Úpravou léčivých přípravků se rozumí takový postup, který je prováděn u [a) léčivých přípravků podléhajících registraci před jejich výdejem nebo použitím, b) hodnocených léčivých přípravků před použitím v klinickém hodnocení]; postupy […], které jsou neúměrně náročné nebo nebezpečné […], se považují za přípravu […].*
+> *(4) Úpravou léčivých přípravků se rozumí takový postup, který je prováděn u*
 >
-> *(5) Distribucí léčiv se rozumí všechny činnosti sestávající z obstarávání, skladování, dodávání, včetně dodávání léčiv v rámci Evropské unie a vývozu do jiných zemí než členských států (dále jen „třetí země"), a příslušných obchodních převodů […]*
+> *- a) léčivých přípravků podléhajících registraci před jejich výdejem nebo použitím při poskytování zdravotních služeb nebo veterinární péče v souladu se souhrnem údajů o přípravku nebo podle údajů výrobce v případě postupu podle § 8 odst. 3 až 5 nebo podmínek stanovených specifickým léčebným programem,*
 >
-> *(6) Výdejem léčivých přípravků se rozumí jejich poskytování za podmínek uvedených v § 82 odst. 2. Za výdej léčivých přípravků se považuje i jejich zásilkové poskytování […]*
+> *- b) hodnocených léčivých přípravků před jejich použitím v rámci klinického hodnocení, v souladu s protokolem a schválenými postupy klinického hodnocení;*
 >
-> *(7) Prodejem vyhrazených humánních léčivých přípravků se rozumí jejich nákup, skladování nebo prodej. […]*
+> *postupy podle písmen a) nebo b), které jsou neúměrně náročné nebo nebezpečné, i když jinak naplňují znaky úpravy podle těchto písmen, se považují za přípravu; výčet takových postupů stanoví prováděcí právní předpis.*
 >
-> *(8) Používáním léčivých přípravků [a) při poskytování zdravotních služeb […], b) při poskytování veterinární péče […]]*
+> *(5) Distribucí léčiv se rozumí všechny činnosti sestávající z obstarávání, skladování, dodávání, včetně dodávání léčiv v rámci Evropské unie a vývozu do jiných zemí než členských států (dále jen „třetí země“), a příslušných obchodních převodů bez ohledu na skutečnost, zda jde o činnost prováděnou za úhradu nebo zdarma. Distribuce léčivých přípravků se provádí ve spolupráci s výrobci, jinými distributory nebo s lékárnami a jinými osobami oprávněnými vydávat léčivé přípravky veřejnosti, případně léčivé přípravky používat. Za distribuci léčivých přípravků se nepovažuje výdej léčivých přípravků, jejich prodej prodejcem vyhrazených léčivých přípravků a jejich používání při poskytování zdravotních služeb a veterinární péče, jakož i distribuce humánních transfuzních přípravků zařízením transfuzní služby a distribuce surovin pro další výrobu zařízením transfuzní služby a distribuce veterinárních transfuzních přípravků a biologických veterinárních léčivých přípravků. Za distribuci léčivých přípravků se také nepovažuje dovoz léčivých přípravků ze třetích zemí.*
 >
-> *(9) Oběhem léčiv se […] rozumí dodávání léčiv osobám uvedeným v § 77 odst. 1 písm. c) bodech 2 až 6 a 9, výdej léčivých přípravků, včetně výdeje humánních transfuzních přípravků, distribuce humánních transfuzních přípravků, dodávky veterinárních transfuzních přípravků, prodej vyhrazených léčivých přípravků a používání léčivých přípravků při poskytování zdravotních služeb nebo veterinární péče.*
+> *(6) Výdejem léčivých přípravků se rozumí jejich poskytování za podmínek uvedených v § 82 odst. 2. Za výdej léčivých přípravků se považuje i jejich zásilkové poskytování za podmínek uvedených v § 84 až 87. U transfuzních přípravků se výdejem rozumí poskytnutí humánního transfuzního přípravku poskytovateli zdravotních služeb, a to zařízením transfuzní služby nebo krevní bankou, pro transfuzi konkrétnímu příjemci. Tímto ustanovením nejsou dotčeny právní předpisy upravující daň z přidané hodnoty a ochranu spotřebitele6).*
 >
-> *(10) Veterinárním speciálním léčebným programem se […] rozumí použití veterinárního léčivého přípravku, který není registrovaný v Evropské unii nebo ve třetí zemi, za podmínek stanovených tímto zákonem.*
+> *(7) Prodejem vyhrazených humánních léčivých přípravků se rozumí jejich nákup, skladování nebo prodej. Prodejem vyhrazených veterinárních léčivých přípravků se rozumí jejich nákup, skladování nebo prodej konečnému spotřebiteli.*
 >
-> *(11) Zneužitím léčivých přípravků se […] rozumí úmyslné nadměrné užívání léčivých přípravků nebo úmyslné užívání léčivých přípravků způsobem, který je v rozporu s určeným účelem použití […]*
+> *(8) Používáním léčivých přípravků*
 >
-> *(12) Použitím veterinárního léčivého přípravku mimo rozsah rozhodnutí o registraci se rozumí použití veterinárního léčivého přípravku, které není v souladu se souhrnem údajů o přípravku. […]*
+> *- a) při poskytování zdravotních služeb se rozumí*
 >
-> *(13) Zprostředkováním humánních léčivých přípravků se […] rozumí veškeré činnosti spojené s nákupem nebo prodejem humánních léčivých přípravků, které nezahrnují fyzické zacházení s přípravky nebo jejich distribuci a jejichž podstatou je nezávislé jednání o nákupu nebo prodeji léčivých přípravků jménem jiné osoby.*
+> *  - 1. jejich podávání pacientovi při poskytování těchto služeb, nebo*
 >
-> *(14) Padělaným léčivým přípravkem se […] rozumí jakýkoli léčivý přípravek,*
+> *  - 2. vybavení pacienta podle § 8 odst. 1 potřebným množstvím léčivých přípravků při ukončení hospitalizace nebo při přeložení pacienta k jinému poskytovateli zdravotních služeb, nebo*
 >
-> *- a) na němž jsou uvedeny nepravdivé údaje o jeho totožnosti, včetně obalu a označení na obalu, názvu nebo složení […],*
+> *  - 3. vybavení pacienta podle § 8 odst. 1 potřebným množstvím humánních léčivých přípravků poskytovatelem zdravotních služeb v oboru všeobecné praktické lékařství, v oboru praktický lékař pro děti a dorost a poskytovatelem zdravotnické záchranné služby, anebo*
+>
+> *  - 4. vybavení pacienta podle § 8 odst. 1 potřebným množstvím individuálně připraveného humánního léčivého přípravku s obsahem návykové látky40) poskytovatelem zdravotních služeb v oboru psychiatrie, dětská a dorostová psychiatrie, gerontopsychiatrie nebo v oboru návykové nemoci v rámci poskytování léčby adiktologické poruchy, při níž pacient užívá tento léčivý přípravek jako náhradu za návykovou látku, která vyvolala jeho adiktologickou poruchu,*
+>
+> *- b) při poskytování veterinární péče se rozumí jejich podávání zvířeti nebo skupině zvířat anebo jejich použití u zvířete nebo skupiny zvířat a poskytnutí léčivých přípravků chovateli v množství potřebném pro dokončení daného ošetření nebo léčby, a to za podmínek stanovených tímto zákonem a právními předpisy8).*
+>
+> *(9) Oběhem léčiv se pro účely tohoto zákona rozumí dodávání léčiv osobám uvedeným v § 77 odst. 1 písm. c) bodech 2 až 6 a 9, výdej léčivých přípravků, včetně výdeje humánních transfuzních přípravků, distribuce humánních transfuzních přípravků, dodávky veterinárních transfuzních přípravků, prodej vyhrazených léčivých přípravků a používání léčivých přípravků při poskytování zdravotních služeb nebo veterinární péče.*
+>
+> *(10) Veterinárním speciálním léčebným programem se pro účely tohoto zákona rozumí použití veterinárního léčivého přípravku, který není registrovaný v Evropské unii nebo ve třetí zemi, za podmínek stanovených tímto zákonem.*
+>
+> *(11) Zneužitím léčivých přípravků se pro účely tohoto zákona rozumí úmyslné nadměrné užívání léčivých přípravků nebo úmyslné užívání léčivých přípravků způsobem, který je v rozporu s určeným účelem použití, a to případně i po jejich dalším zpracování, doprovázené škodlivými účinky na organismus, včetně škodlivých účinků na jeho psychiku.*
+>
+> *(12) Použitím veterinárního léčivého přípravku mimo rozsah rozhodnutí o registraci se rozumí použití veterinárního léčivého přípravku, které není v souladu se souhrnem údajů o přípravku. Pro účely kontroly používání, předepisování a výdeje léčivých přípravků při poskytování veterinární péče a farmakovigilance se použitím veterinárního léčivého přípravku mimo rozsah rozhodnutí o registraci rozumí dále i nesprávné použití nebo zneužití přípravku.*
+>
+> *(13) Zprostředkováním humánních léčivých přípravků se pro účely tohoto zákona rozumí veškeré činnosti spojené s nákupem nebo prodejem humánních léčivých přípravků, které nezahrnují fyzické zacházení s přípravky nebo jejich distribuci a jejichž podstatou je nezávislé jednání o nákupu nebo prodeji léčivých přípravků jménem jiné osoby.*
+>
+> *(14) Padělaným léčivým přípravkem se pro účely tohoto zákona rozumí jakýkoli léčivý přípravek,*
+>
+> *- a) na němž jsou uvedeny nepravdivé údaje o jeho totožnosti, včetně obalu a označení na obalu, názvu nebo složení z hlediska kterékoli jeho složky včetně pomocných látek a síly těchto složek,*
 >
 > *- b) na němž jsou uvedeny nepravdivé údaje o jeho původu, včetně výrobce, země výroby, země původu nebo držitele rozhodnutí o registraci, nebo*
 >
-> *- c) který je doprovázen dokumentací obsahující nepravdivé údaje o jeho historii […]*
+> *- c) který je doprovázen dokumentací obsahující nepravdivé údaje o jeho historii, včetně záznamů a dokumentů týkajících se využitých distribučních kanálů.*
 >
 > *(15) Léčivý přípravek s nezamýšlenými závadami v jakosti se za padělaný léčivý přípravek podle odstavce 14 nepovažuje.*
 >
-> *(16) Výrobou léčivé látky se […] rozumí jakýkoli úplný nebo částečný úkon převzetí materiálu, výroby, balení, přebalování, označování, přeznačování, kontroly jakosti nebo propouštění léčivé látky […]*
+> *(16) Výrobou léčivé látky se pro účely tohoto zákona, jde-li o její použití v hodnocených humánních léčivých přípravcích nebo ve veterinárních léčivých přípravcích, rozumí jakýkoli úplný nebo částečný úkon převzetí materiálu, výroby, balení, přebalování, označování, přeznačování, kontroly jakosti nebo propouštění léčivé látky, jakož i související kontrola. Vymezení toho, co se rozumí výrobou léčivé látky, jde-li o její použití v humánních léčivých přípravcích, stanoví přímo použitelný předpis Evropské unie upravující správnou výrobní praxi pro léčivé látky101). Vymezení toho, co se rozumí výrobou léčivé látky, jde-li o její použití ve veterinárních léčivých přípravcích, stanoví nařízení o veterinárních léčivých přípravcích.*
 
 **Výklad:**
 
@@ -393,25 +411,25 @@ Specifický institut pro **dovoz a použití neregistrovaných veterinárních l
 >
 > *- a) výrobce léčivých přípravků, osoba dovážející léčivé přípravky ze třetích zemí, zařízení transfuzní služby, provozovatel kontrolní laboratoře a výrobce léčivých látek,*
 >
-> *- b) distributor léčiv (dále jen „distributor"),*
+> *- b) distributor léčiv (dále jen „distributor“),*
 >
-> *- c) osoba oprávněná k poskytování zdravotních služeb […] (dále jen „poskytovatel zdravotních služeb"),*
+> *- c) osoba oprávněná k poskytování zdravotních služeb podle zákona o zdravotních službách9) (dále jen „poskytovatel zdravotních služeb“),*
 >
-> *- d) osoba oprávněná poskytovat veterinární péči […],*
+> *- d) osoba oprávněná poskytovat veterinární péči podle právního předpisu10),*
 >
 > *- e) osoba organizující nebo provádějící výzkum léčiv, nebo*
 >
 > *- f) prodejce vyhrazených léčivých přípravků.*
 >
-> *(2) Správnou výrobní praxí se […] rozumí soubor pravidel, která zajišťují, aby se výroba a kontrola léčiv uskutečňovaly v souladu s požadavky na jejich jakost, se zamýšleným použitím a s příslušnou dokumentací. V případě humánních a veterinárních léčivých přípravků se pravidla správné výrobní praxe použijí obdobně na dovoz ze třetích zemí.*
+> *(2) Správnou výrobní praxí se pro účely tohoto zákona rozumí soubor pravidel, která zajišťují, aby se výroba a kontrola léčiv uskutečňovaly v souladu s požadavky na jejich jakost, se zamýšleným použitím a s příslušnou dokumentací. V případě humánních a veterinárních léčivých přípravků se pravidla správné výrobní praxe použijí obdobně na dovoz ze třetích zemí.*
 >
-> *(3) Správnou distribuční praxí se […] rozumí soubor pravidel, která zajišťují, aby se distribuce léčiv, popřípadě pomocných látek, uskutečňovala v souladu s požadavky na jejich jakost, se zamýšleným použitím a s příslušnou dokumentací.*
+> *(3) Správnou distribuční praxí se pro účely tohoto zákona rozumí soubor pravidel, která zajišťují, aby se distribuce léčiv, popřípadě pomocných látek, uskutečňovala v souladu s požadavky na jejich jakost, se zamýšleným použitím a s příslušnou dokumentací.*
 >
-> *(4) Správnou laboratorní praxí se […] rozumí systém zabezpečování jakosti týkající se organizačního procesu a podmínek, za kterých se neklinické studie bezpečnosti léčiv plánují, provádějí, kontrolují, zaznamenávají, předkládají a archivují.*
+> *(4) Správnou laboratorní praxí se pro účely tohoto zákona rozumí systém zabezpečování jakosti týkající se organizačního procesu a podmínek, za kterých se neklinické studie bezpečnosti léčiv plánují, provádějí, kontrolují, zaznamenávají, předkládají a archivují.*
 >
-> *(5) Správnou lékárenskou praxí se […] rozumí soubor pravidel, která zajišťují, aby se příprava, úprava, kontrola, uchovávání a výdej léčivých přípravků uskutečňovaly v souladu s požadavky na jejich jakost, bezpečnost, účinnost a informovanost pacientů […]*
+> *(5) Správnou lékárenskou praxí se pro účely tohoto zákona rozumí soubor pravidel, která zajišťují, aby se příprava, úprava, kontrola, uchovávání a výdej léčivých přípravků uskutečňovaly v souladu s požadavky na jejich jakost, bezpečnost, účinnost a informovanost pacientů, a to v souladu se zamýšleným použitím léčivých přípravků a s příslušnou dokumentací.*
 >
-> *(6) Správnou praxí prodejců vyhrazených léčivých přípravků se […] rozumí soubor pravidel, která zajišťují, aby se prodej vyhrazených léčivých přípravků uskutečňoval v souladu s požadavky na jakost, bezpečnost a účinnost vyhrazených léčivých přípravků […]*
+> *(6) Správnou praxí prodejců vyhrazených léčivých přípravků se pro účely tohoto zákona rozumí soubor pravidel, která zajišťují, aby se prodej vyhrazených léčivých přípravků uskutečňoval v souladu s požadavky na jakost, bezpečnost a účinnost vyhrazených léčivých přípravků, a to v souladu s jejich zamýšleným použitím.*
 
 **Výklad:**
 
@@ -477,11 +495,9 @@ K této pětici se mimo § 6 řadí ještě:
 
 > **§ 8**
 >
-> **Používání humánních léčivých přípravků při poskytování zdravotních služeb**
+> *(1) Předepisovat, uvádět do oběhu nebo používat při poskytování zdravotních služeb lze pouze registrované humánní léčivé přípravky podle § 25, není-li dále stanoveno jinak. Vybavit pacienta léčivými přípravky při poskytování zdravotních služeb podle § 5 odst. 8 písm. a) bodů 2 a 3 lze pouze v případě, že zdravotní stav pacienta nezbytně vyžaduje bezodkladné užívání léčivého přípravku a vzhledem k místní nebo časové nedostupnosti lékárenské péče není možný včasný výdej léčivého přípravku na lékařský předpis; způsob vybavení pacienta léčivými přípravky při poskytování zdravotních služeb podle § 5 odst. 8 písm. a) bodů 2 až 4 stanoví prováděcí právní předpis.*
 >
-> *(1) Předepisovat, uvádět do oběhu nebo používat při poskytování zdravotních služeb lze pouze registrované humánní léčivé přípravky podle § 25, není-li dále stanoveno jinak. […]*
->
-> *(2) Předepisovat a používat při poskytování zdravotních služeb je dále možno léčivé přípravky připravené v lékárně […] a transfuzní přípravky vyrobené v zařízení transfuzní služby.*
+> *(2) Předepisovat a používat při poskytování zdravotních služeb je dále možno léčivé přípravky připravené v lékárně a na dalších pracovištích, kde lze připravovat léčivé přípravky podle § 79 odst. 2, a transfuzní přípravky vyrobené v zařízení transfuzní služby.*
 >
 > *(3) Při poskytování zdravotních služeb jednotlivým pacientům může ošetřující lékař za účelem poskytnutí optimálních zdravotních služeb předepsat nebo použít i léčivé přípravky neregistrované podle tohoto zákona pouze za situace, kdy zároveň*
 >
@@ -495,19 +511,19 @@ K této pětici se mimo § 6 řadí ještě:
 >
 > *- c) takový způsob je dostatečně odůvodněn vědeckými poznatky a*
 >
-> *- d) nejde o léčivý přípravek obsahující geneticky modifikovaný organismus.*
+> *- d) nejde o léčivý přípravek obsahující geneticky modifikovaný organismus11).*
 >
 > *(4) Ošetřující lékař může, pokud není léčivý přípravek distribuován nebo není v oběhu léčivý přípravek potřebných terapeutických vlastností, použít registrovaný léčivý přípravek způsobem, který není v souladu se souhrnem údajů o přípravku, je-li však takový způsob dostatečně odůvodněn vědeckými poznatky.*
 >
-> *(5) Poskytovatel zdravotních služeb odpovídá podle právních předpisů za škodu na zdraví nebo za usmrcení člověka, ke kterým došlo v důsledku použití neregistrovaného léčivého přípravku nebo použití registrovaného léčivého přípravku způsobem uvedeným v odstavci 4. […] Předepsání nebo použití neregistrovaného léčivého přípravku ošetřující lékař neprodleně oznámí Státnímu ústavu pro kontrolu léčiv. […]*
+> *(5) Poskytovatel zdravotních služeb odpovídá podle právních předpisů9) za škodu na zdraví nebo za usmrcení člověka, ke kterým došlo v důsledku použití neregistrovaného léčivého přípravku nebo použití registrovaného léčivého přípravku způsobem uvedeným v odstavci 4. Hodlá-li ošetřující lékař předepsat nebo použít neregistrovaný léčivý přípravek nebo použít registrovaný léčivý přípravek způsobem uvedeným v odstavci 4, seznámí s touto skutečností a důsledky léčby pacienta, popřípadě jeho zákonného zástupce. Neumožňuje-li zdravotní stav pacienta takové seznámení, učiní tak ošetřující lékař po použití léčivého přípravku neprodleně, jakmile to zdravotní stav pacienta umožní. Jde-li o předepsání neregistrovaného léčivého přípravku, ošetřující lékař tuto skutečnost vyznačí v lékařském předpisu. Předepsání nebo použití neregistrovaného léčivého přípravku ošetřující lékař neprodleně oznámí Státnímu ústavu pro kontrolu léčiv. Způsob a rozsah oznámení o předepsání nebo použití neregistrovaného léčivého přípravku Státnímu ústavu pro kontrolu léčiv stanoví prováděcí právní předpis. Jde-li o radiofarmakum, Státní ústav pro kontrolu léčiv informuje o jemu oznámeném použití neregistrovaného radiofarmaka Státní úřad pro jadernou bezpečnost. Léčivý přípravek podle odstavce 3 písm. b) bodu 2 musí být označen alespoň způsobem stanoveným v § 57 odst. 2.*
 >
-> *(6) Při předpokládaném nebo potvrzeném šíření původců onemocnění, toxinů, chemických látek nebo při předpokládané nebo potvrzené radiační nehodě nebo havárii […] může Ministerstvo zdravotnictví výjimečně dočasně rozhodnutím vydaným po vyžádání odborného stanoviska Státního ústavu pro kontrolu léčiv povolit distribuci, výdej a používání neregistrovaného humánního léčivého přípravku nebo použití registrovaného humánního léčivého přípravku způsobem, který není v souladu s rozhodnutím o registraci. V takovém případě držitelé rozhodnutí o registraci, výrobci léčivých přípravků a zdravotničtí pracovníci nenesou odpovědnost za důsledky vyplývající z takového použití […]*
+> *(6) Při předpokládaném nebo potvrzeném šíření původců onemocnění, toxinů, chemických látek nebo při předpokládané nebo potvrzené radiační nehodě nebo havárii, které by mohly závažným způsobem ohrozit veřejné zdraví, může Ministerstvo zdravotnictví výjimečně dočasně rozhodnutím vydaným po vyžádání odborného stanoviska Státního ústavu pro kontrolu léčiv povolit distribuci, výdej a používání neregistrovaného humánního léčivého přípravku nebo použití registrovaného humánního léčivého přípravku způsobem, který není v souladu s rozhodnutím o registraci. V takovém případě držitelé rozhodnutí o registraci, výrobci léčivých přípravků a zdravotničtí pracovníci nenesou odpovědnost za důsledky vyplývající z takového použití léčivého přípravku. To platí bez ohledu na to, zda byla nebo nebyla udělena registrace podle § 25 odst. 1. Odpovědnost za vady léčivých přípravků podle zvláštního právního předpisu12) není dotčena. O vydaném opatření Ministerstvo zdravotnictví informuje Státní ústav pro kontrolu léčiv. Ministerstvo zdravotnictví vyvěsí vydané opatření na své úřední desce a Státní ústav pro kontrolu léčiv je zveřejní způsobem umožňujícím dálkový přístup, popřípadě i ve Věstníku Státního ústavu pro kontrolu léčiv.*
 >
-> *(7) Ustanoveními tohoto zákona nejsou dotčena ustanovení právního předpisu upravujícího radiační ochranu osob podrobujících se lékařskému vyšetření nebo léčbě […]*
+> *(7) Ustanoveními tohoto zákona nejsou dotčena ustanovení právního předpisu upravujícího radiační ochranu osob podrobujících se lékařskému vyšetření nebo léčbě nebo pravidla stanovující základní bezpečnostní normy pro ochranu veřejného zdraví a pracovníků proti nebezpečí ionizujícího záření.*
 >
 > *(8) Zacházet s humánními léčivými přípravky jinak než v souladu s tímto zákonem je zakázáno.*
 >
-> *(9) V situaci, kdy není možné provést ověření ochranných prvků […] může Ministerstvo zdravotnictví výjimečně rozhodnutím vydaným na žádost držitele rozhodnutí o registraci dočasně povolit distribuci a výdej tohoto léčivého přípravku. […]*
+> *(9) V situaci, kdy není možné provést ověření ochranných prvků, kterými je opatřen léčivý přípravek, v rozsahu podle čl. 10 přímo použitelného předpisu Evropské unie upravujícího podrobná pravidla pro ochranné prvky uvedené na obalu humánních léčivých přípravků106) (dále jen „nařízení o ochranných prvcích“) v důsledku toho, že tento léčivý přípravek po dokončení výroby nesplňuje požadavky tohoto nařízení, může Ministerstvo zdravotnictví výjimečně rozhodnutím vydaným na žádost držitele rozhodnutí o registraci dočasně povolit distribuci a výdej tohoto léčivého přípravku. V takovém případě držitelé rozhodnutí o registraci, výrobci léčivých přípravků, distributoři a osoby oprávněné k výdeji plní povinnosti vyplývající z nařízení o ochranných prvcích přiměřeně. Odpovědnost za vady léčivých přípravků podle zvláštního právního předpisu12) není dotčena. O vydaném opatření Ministerstvo zdravotnictví informuje Státní ústav pro kontrolu léčiv. Ministerstvo zdravotnictví vyvěsí vydané opatření na své úřední desce a Státní ústav pro kontrolu léčiv je zveřejní způsobem umožňujícím dálkový přístup.*
 
 **Výklad:**
 
@@ -552,8 +568,6 @@ Toto novější ustanovení reaguje na případy, kdy LP po dokončení výroby 
 
 > **§ 9**
 >
-> **Používání léčivých přípravků při poskytování veterinární péče**
->
 > *(1) Při poskytování veterinární péče lze použít pouze*
 >
 > *- a) veterinární léčivý přípravek registrovaný podle § 25,*
@@ -562,15 +576,15 @@ Toto novější ustanovení reaguje na případy, kdy LP po dokončení výroby 
 >
 > *- c) léčivý přípravek připravený v lékárně pro jednotlivé zvíře v souladu s předpisem veterinárního lékaře,*
 >
-> *- d) léčivý přípravek připravený v souladu s články Českého lékopisu […]*
+> *- d) léčivý přípravek připravený v souladu s články Českého lékopisu a způsobem stanoveným prováděcím právním předpisem v lékárně nebo na pracovišti jiného poskytovatele zdravotních služeb oprávněného podle § 79 odst. 2 připravovat léčivé přípravky,*
 >
-> *- e) veterinární léčivý přípravek registrovaný v jiném členském státě […]*
+> *- e) veterinární léčivý přípravek registrovaný v jiném členském státě v souladu s předpisem Evropské unie14), pro jehož uvedení do oběhu v České republice byly splněny podmínky stanovené v § 48,*
 >
 > *- f) humánní léčivý přípravek registrovaný podle § 25,*
 >
-> *- g) veterinární léčivý přípravek použitý v rámci veterinárního speciálního léčebného programu schváleného Ústavem pro státní kontrolu veterinárních biopreparátů a léčiv (dále jen „Veterinární ústav") […]*
+> *- g) veterinární léčivý přípravek použitý v rámci veterinárního speciálního léčebného programu schváleného Ústavem pro státní kontrolu veterinárních biopreparátů a léčiv (dále jen „Veterinární ústav“) pro jedno zvíře nebo pro skupinu zvířat podle § 48a s ohledem na čl. 112, 113 nebo 114 nařízení o veterinárních léčivých přípravcích,*
 >
-> *- h) veterinární léčivý přípravek, pro který bylo Veterinárním ústavem schváleno klinické hodnocení […]*
+> *- h) veterinární léčivý přípravek, pro který bylo Veterinárním ústavem schváleno klinické hodnocení podle § 60 nebo 60a,*
 >
 > *- i) biologický veterinární léčivý přípravek obsahující autologní nebo alogenní buňky nebo tkáně,*
 >
@@ -578,11 +592,79 @@ Toto novější ustanovení reaguje na případy, kdy LP po dokončení výroby 
 >
 > *- k) veterinární transfuzní přípravek,*
 >
-> *- l) veterinární léčivý přípravek, pro který vydala Ústřední veterinární správa Státní veterinární správy (dále jen „Ústřední veterinární správa") výjimku podle § 46, nebo*
+> *- l) veterinární léčivý přípravek, pro který vydala Ústřední veterinární správa Státní veterinární správy (dále jen „Ústřední veterinární správa“) výjimku podle § 46, nebo*
 >
-> *- m) neregistrovaný imunologický veterinární léčivý přípravek, o jehož použití rozhodla Evropská komise (dále jen „Komise").*
+> *- m) neregistrovaný imunologický veterinární léčivý přípravek, o jehož použití rozhodla Evropská komise (dále jen „Komise“).*
 >
-> *[odst. 2–16 — detailní podmínky kaskády, kompetence veterinárního lékaře, ochranná lhůta, záznamy chovatele, hostující veterinární lékař, odpovědnost veterinárního lékaře, zákaz odlišného zacházení]*
+> *(2) Léčivé přípravky uvedené v odstavci 1 lze při poskytování veterinární péče použít pouze při dodržení podmínek stanovených v kapitole VII oddílu 3 nařízení o veterinárních léčivých přípravcích, prováděcích aktech Komise nebo aktech Komise v přenesené pravomoci vydaných podle článků tohoto oddílu, tímto zákonem a prováděcím právním předpisem. Prováděcí právní předpis stanoví omezení pro použití léčivých přípravků uvedených v odstavci 1 a podmínky jejich dostupnosti s ohledem na registrované veterinární léčivé přípravky podle přímo použitelného předpisu Evropské unie.*
+>
+> *(3) Veterinární léčivý přípravek, jehož uvádění do oběhu je podle čl. 34 nařízení o veterinárních léčivých přípravcích nebo podle tohoto zákona vázáno na lékařský předpis, veterinární léčivý přípravek, jehož uvádění do oběhu není vázáno na lékařský předpis, který však má být použit mimo podmínky jeho registrace, a humánní léčivý přípravek použitý při poskytování veterinární péče smí používat pouze*
+>
+> *- a) veterinární lékař oprávněný k výkonu veterinární léčebné a preventivní činnosti v souladu s podmínkami stanovenými zákonem o Komoře veterinárních lékařů nebo veterinární lékař vysoké školy veterinární v souladu s § 58 odst. 3 písm. a) veterinárního zákona (dále jen „veterinární lékař“), nebo*
+>
+> *- b) chovatel zvířete, jde-li o podání léčivého přípravku pro jím chované zvíře, a to v souladu s pokyny veterinárního lékaře, a v případě zvířete produkujícího živočišné produkty určené k výživě člověka také v souladu s podmínkami stanovenými veterinárním zákonem10).*
+>
+> *V případě, že veterinární lékař zamýšlí použít u zvířete neregistrovaný veterinární léčivý přípravek, veterinární léčivý přípravek, který má být použit mimo podmínky jeho registrace, nebo humánní léčivý přípravek, je povinen o možných nepříznivých důsledcích spojených s použitím takového přípravku informovat chovatele zvířete.*
+>
+> *(4) Veterinární lékař léčivý přípravek podle odstavce 3 použije anebo pokyny pro podání takového léčivého přípravku stanoví výhradně po stanovení diagnózy nebo jiného závěru opravňujícího ho k použití léčivého přípravku, a to na základě*
+>
+> *- a) jím řádně provedeného a dokumentovaného vyšetření zvířete či zvířat v chovu, ve kterém běžně vykonává léčebnou a preventivní veterinární činnost, a posouzení všech dalších podmínek, které mohou ovlivnit bezpečnost nebo účinnost léčivého přípravku, který má být použit,*
+>
+> *- b) podrobného a dokumentovaného souboru informací o zdravotním stavu zvířete či skupiny zvířat v chovu, pro který jsou splněny podmínky podle písmene a), jde-li o případ preventivního použití léčivých přípravků nebo o dlouhodobý léčebný program v chovu, nebo*
+>
+> *- c) na základě bezprostředního posouzení zdravotního stavu zvířete či dalších informací v rozsahu potřebném pro rozhodnutí o použití léčivého přípravku způsobem, který minimalizuje riziko výskytu jeho nežádoucích účinků, jde-li o výjimečný případ ohrožení zdraví nebo života zvířete,*
+>
+> *přičemž veterinární lékař dále zohlední podmínky stanovené nařízením o veterinárních léčivých přípravcích.*
+>
+> *(5) Pouze veterinární lékař, který provedl úkony uvedené v odstavci 4, smí použít*
+>
+> *- a) veterinární léčivý přípravek, u kterého Veterinární ústav rozhodnutím podle § 40 odst. 4 omezil okruh osob, které jsou oprávněny používat veterinární léčivý přípravek,*
+>
+> *- b) humánní léčivý přípravek podle odstavce 1, s jehož použitím je spojeno vysoké riziko pro zdraví veřejnosti, zdraví zvířat nebo pro životní prostředí, včetně rizika rozvoje rezistence k antimikrobikům; prováděcí právní předpis stanoví seznam těchto humánních léčivých přípravků nebo jejich skupin,*
+>
+> *- c) veterinární transfuzní přípravek podle § 68a nebo 68b,*
+>
+> *- d) biologický veterinární léčivý přípravek pro buněčnou nebo tkáňovou terapii podle § 68c,*
+>
+> *- e) veterinární radiofarmakum,*
+>
+> *- f) veterinární léčivý přípravek, u kterého tak Ústřední veterinární správa rozhodla podle § 46,*
+>
+> *- g) léčivý přípravek, u kterého tak rozhodl Veterinární ústav podle § 48, a*
+>
+> *- h) imunologický veterinární léčivý přípravek, pro který bylo takové omezení stanoveno v rámci zdolávacích nebo ochranných opatření stanovených orgány veterinární péče podle jiného právního předpisu18).*
+>
+> *(6) Léčivý přípravek obsahující thyreostatické látky, hormonální látky či beta-agonisty se smí dále pro účely poskytování veterinární péče použít pouze v případě, že jeho použití není v rozporu s podmínkami stanovenými tímto zákonem a jinými právními předpisy17). Veterinární lékař, který zamýšlí použít léčivý přípravek podle věty první u zvířete produkujícího živočišné produkty určené k výživě člověka, je povinen předem informovat chovatele zvířete a získat s podáním takového léčivého přípravku souhlas chovatele. Vyžaduje-li to ochrana zdraví nebo života zvířete, může veterinární lékař léčivý přípravek podle věty první použít, aniž by získal souhlas chovatele, je však povinen o této skutečnosti chovatele neprodleně průkazným způsobem informovat.*
+>
+> *(7) Imunologický veterinární léčivý přípravek se smí pro účely veterinární péče použít pouze v případě, že jeho použití je v souladu s tímto zákonem a opatřeními stanovenými orgány veterinární péče podle jiného právního předpisu18).*
+>
+> *(8) Po podání veterinárního léčivého přípravku zvířeti produkujícímu živočišné produkty určené k výživě člověka v souladu s podmínkami jeho registrace je chovatel takového zvířete povinen dodržet ochrannou lhůtu stanovenou v podmínkách registrace veterinárního léčivého přípravku, pokud veterinární lékař, který provedl úkony uvedené v odstavci 4, nestanoví ochrannou lhůtu delší.*
+>
+> *(9) Po podání léčivého přípravku zvířeti produkujícímu živočišné produkty určené k výživě člověka za jiných podmínek než těch, které jsou uvedeny v odstavci 8, je povinen ochrannou lhůtu stanovit s ohledem na podmínky stanovené v čl. 115 nařízení o veterinárních léčivých přípravcích veterinární lékař, který provedl úkony uvedené v odstavci 4, přičemž chovatel je povinen dodržet nejméně takto stanovenou ochrannou lhůtu.*
+>
+> *(10) Veterinární lékař, který provedl úkony uvedené v odstavci 4, zaznamená každé použití léčivého přípravku při poskytování veterinární péče v souladu s požadavky stanovenými prováděcím právním předpisem. Záznamy o použití léčivých přípravků veterinární lékař, který provedl úkony uvedené v odstavci 4, uchovává po dobu nejméně 5 let. Prováděcí právní předpis stanoví způsob vedení a obsah těchto záznamů. Záznamy o použití léčivých přípravků veterinární lékař, který provedl úkony uvedené v odstavci 4, poskytuje v elektronické formě Veterinárnímu ústavu v souladu s podmínkami stanovenými v § 102a až 102e.*
+>
+> *(11) Chovatel, který*
+>
+> *- a) za účelem podnikání chová zvíře produkující živočišné produkty určené k výživě člověka,*
+>
+> *- b) chová zvíře produkující živočišné produkty určené k výživě člověka a tyto produkty prodává v malých množstvích v souladu s jiným právním předpisem18),*
+>
+> *- c) za účelem podnikání chová zvíře, které neprodukuje živočišné produkty určené k výživě člověka, nebo*
+>
+> *- d) je chovatelem koně nebo jiného zvířete z čeledi koňovitých,*
+>
+> *má povinnost nabývat léčivé přípravky výhradně od provozovatelů podle tohoto zákona a vést záznamy o nabytí a použití léčivých přípravků v souladu s čl. 108 nařízení o veterinárních léčivých přípravcích a prováděcím právním předpisem, který stanoví formu záznamů, rozsah a způsob uchování. Chovatelé jsou povinni uchovávat záznamy o použití léčivých přípravků nejméně po dobu 5 let, a to i v případě, že zvířata, kterým byly léčivé přípravky podány, byla poražena nebo nejsou nadále v držení příslušného chovatele.*
+>
+> *(12) Hostující veterinární lékař oprávněný poskytovat veterinární péči na území České republiky podle zákona o Komoře veterinárních lékařů smí podávat zvířatům léčivé přípravky v rozsahu stanoveném podle čl. 111 odst. 1 písm. a) nařízení o veterinárních léčivých přípravcích, s výjimkou registrovaných imunologických veterinárních léčivých přípravků jiných než těch, které obsahují výhradně toxiny a séra, a to za podmínky stanovené v čl. 111 odst. 1 nařízení o veterinárních léčivých přípravcích. Hostující veterinární lékař je povinen dodržovat omezení pro použití léčivých přípravků stanovená tímto zákonem, v případě podání léčivého přípravku zvířeti produkujícímu živočišné produkty určené k výživě člověka je povinen stanovit ochrannou lhůtu podle tohoto zákona a řídit se pravidly stanovenými Komorou veterinárních lékařů v souladu s čl. 111 odst. 1 písm. c) nařízení o veterinárních léčivých přípravcích. Hostující veterinární lékař nesmí vydat chovateli léčivý přípravek za účelem jeho následného podání zvířatům ani jej jiným způsobem takovým léčivým přípravkem vybavit a je povinen používat pouze registrované veterinární léčivé přípravky. Hostující veterinární lékař je povinen vést o použití léčivých přípravků záznamy podle odstavce 10, a pokud splní podmínky pro elektronické poskytování údajů o použití léčivých přípravků podle § 102a až 102e, je povinen je poskytovat Veterinárnímu ústavu v souladu s podmínkami stanovenými v § 102a až 102e.*
+>
+> *(13) Pro používání registrovaných veterinárních léčivých přípravků, nejde-li o veterinární imunologické léčivé přípravky, formou podání v krmivu v daném hospodářství20) lze použít pouze takové technologické zařízení, které je součástí tohoto hospodářství a pro které stanovila krajská veterinární správa veterinární podmínky a opatření v souladu s jiným právním předpisem18); nebyly-li takové veterinární podmínky a opatření pro příslušné technologické zařízení stanoveny, může chovatel takové zařízení pro účely medikace použít až po stanovení veterinárních podmínek a opatření příslušnou krajskou veterinární správou, kterou o stanovení těchto podmínek a opatření požádá. Krajská veterinární správa takové podmínky stanoví s ohledem na podmínky stanovené Komisí podle čl. 106 odst. 6 nařízení o veterinárních léčivých přípravcích. Krajská veterinární správa takové podmínky nestanoví v případě, že se jedná o výrobu medikovaných krmiv na hospodářství, které podléhá povolení podle jiného právního předpisu68).*
+>
+> *(14) Veterinární lékař odpovídá bez ohledu na své zavinění za škody, ke kterým došlo v důsledku použití neregistrovaného léčivého přípravku, s výjimkou použití veterinárního léčivého přípravku za podmínek stanovených pro jeho klinické hodnocení, v důsledku použití registrovaného léčivého přípravku mimo podmínky jeho registrace nebo v důsledku použití humánního léčivého přípravku.*
+>
+> *(15) Nestanoví-li projekt pokusů schválený podle jiného právního předpisu123) podmínky pro použití léčivých přípravků, smí při provádění pokusů v zařízení uživatele pokusných zvířat léčivé přípravky použít pouze veterinární lékař, který provedl úkony uvedené v odstavci 4, v souladu s podmínkami stanovenými tímto zákonem a jiným právním předpisem123).*
+>
+> *(16) Zacházet s veterinárními léčivými přípravky jinak než v souladu s tímto zákonem je zakázáno.*
 
 **Výklad:**
 
@@ -667,21 +749,61 @@ K hlavním ústavům přistupuje řada **vedlejších orgánů**:
 
 > **§ 11**
 >
-> **Ministerstvo zdravotnictví**
->
-> Ministerstvo zdravotnictví v oblasti humánních léčiv
+> *Ministerstvo zdravotnictví v oblasti humánních léčiv*
 >
 > *- a) rozhoduje o vydání souhlasu s uskutečněním specifických léčebných programů a nad těmito programy vykonává kontrolu,*
 >
 > *- b) povoluje použít pro humánní použití léčivé látky a pomocné látky neuvedené v seznamu stanoveném prováděcím právním předpisem,*
 >
-> *- c) zúčastňuje se přípravy Evropského lékopisu a odpovídá za zajištění jeho přípravy a zveřejnění v České republice […]*
+> *- c) zúčastňuje se přípravy Evropského lékopisu4) a odpovídá za zajištění jeho přípravy a zveřejnění v České republice, a to i pro oblast veterinárních léčiv,*
 >
-> *- d) vydává Český lékopis […]*
+> *- d) vydává Český lékopis, který stanovuje postupy a požadavky pro*
 >
-> *- e) rozhoduje přestupky […] při distribuci, dovozu nebo vývozu humánních transfuzních přípravků […]*
+> *  - 1. výrobu léčivých látek a pomocných látek,*
 >
-> *[…] [písm. f) až v) — celkem 22 kompetencí: zveřejňování seznamů, opatření obecné povahy proti vývozu nedostatkových léčiv, zajištění dostupnosti, stanoviska k registraci, dočasná povolení v krizích, rezervní zásoby, omezení distribuce a výdeje při ohrožení dostupnosti]*
+> *  - 2. výrobu a přípravu léčivých přípravků,*
+>
+> *  - 3. zkoušení a skladování léčivých látek, pomocných látek a léčivých přípravků,*
+>
+> *- e) rozhoduje přestupky, ke kterým dojde při distribuci, dovozu nebo vývozu humánních transfuzních přípravků a suroviny pro další výrobu,*
+>
+> *- f) zveřejňuje ve Věstníku Ministerstva zdravotnictví a způsobem umožňujícím dálkový přístup*
+>
+> *  - 1. seznam osob oprávněných odstraňovat nepoužitelná léčiva,*
+>
+> *  - 2. seznam osob pořádajících kurzy pro prodejce vyhrazených léčivých přípravků oprávněných podle zvláštních právních předpisů22),*
+>
+> *- g) vydává opatření obecné povahy podle § 77d, kterým omezuje nebo zakazuje distribuci léčivého přípravku do zahraničí,*
+>
+> *- h) vytváří podmínky pro zajištění dostupnosti léčivých přípravků významných pro poskytování zdravotních služeb a přijímá opatření na podporu výzkumu, vývoje a dostupnosti léčivých přípravků pro vzácná onemocnění a léčivých přípravků, které mohou být jako takové stanoveny, jakož i léčivých přípravků pro použití v dětském lékařství,*
+>
+> *- i) zajišťuje nezbytná opatření pro podporu soběstačnosti Evropské unie a České republiky v oblasti lidské krve nebo lidské plazmy a přijímá opatření pro předcházení vzniku rizika ohrožení veřejného zdraví v souvislosti s použitím lidské krve nebo lidské plazmy,*
+>
+> *- j) za účelem podpory dobrovolného neplaceného dárcovství lidské krve a jejích složek činí opatření nezbytná pro rozvoj výroby a použití přípravků pocházejících z lidské krve a jejích složek od dobrovolných neplacených dárců; tato opatření oznamuje Komisi, a to počínaje 8. únorem 2008 a následně vždy jedenkrát za 3 roky,*
+>
+> *- k) podává zprávu Komisi o činnostech vykonaných v souvislosti s ustanoveními týkajícími se standardů jakosti a bezpečnosti pro odběr, vyšetření, zpracování, skladování a distribuci lidské krve, jejích složek, humánních transfuzních přípravků a surovin pro další výrobu, a to počínaje 31. prosincem 2007, dále 31. prosince 2009 a následně vždy jedenkrát za 3 roky, včetně seznamu opatření přijatých v oblasti inspekce a kontroly,*
+>
+> *- l) vydává stanoviska k potřebnosti léčivého přípravku s ohledem na ochranu veřejného zdraví pro účely převzetí registrace z jiného členského státu,*
+>
+> *- m) vydává souhlas se jmenováním zástupců Státním ústavem pro kontrolu léčiv do výborů podle přímo použitelného předpisu Evropské unie23) a správní rady Evropské lékové agentury24) (dále jen „agentura“),*
+>
+> *- n) informuje Státní ústav pro kontrolu léčiv o zneužívání léčivých přípravků, o nichž se při výkonu své působnosti dozví,*
+>
+> *- o) vydává dočasné opatření podle § 8 odst. 6, kterým povoluje distribuci, výdej a používání neregistrovaného léčivého přípravku či použití registrovaného léčivého přípravku způsobem, který není v souladu s rozhodnutím o registraci,*
+>
+> *- p) rozhoduje, jde-li o humánní transfuzní přípravky nebo surovinu pro další výrobu, o vydání souhlasu s jejich distribucí uskutečňovanou mezi Českou republikou a jiným členským státem a s jejich vývozem do třetí země a dovozem ze třetí země; informace o vydaných rozhodnutích zveřejní,*
+>
+> *- q) vydává opatření obecné povahy podle § 77c, kterým se stanoví léčivý přípravek, při jehož nedostatku bude ohrožena dostupnost a účinnost léčby pacientů v České republice s přímým dopadem na ochranu zdraví obyvatelstva a s významným ovlivněním poskytování zdravotních služeb, a vede seznam takových léčivých přípravků,*
+>
+> *- r) vydává za účelem zajištění dostupnosti léčivých přípravků dočasné opatření podle § 8 odst. 9, kterým povoluje distribuci a výdej léčivých přípravků, které po dokončení výroby nesplňují požadavky nařízení o ochranných prvcích,*
+>
+> *- s) může po předchozím souhlasu vlády zajistit dostupnost léčivých přípravků významných z hlediska ochrany veřejného zdraví jejich nákupem nebo distribucí, nelze-li zajistit jejich dostupnost jinak,*
+>
+> *- t) vydává opatření obecné povahy podle § 77e odst. 2, kterým zařadí humánní léčivý přípravek do systému rezervních zásob,*
+>
+> *- u) vydává opatření obecné povahy podle § 77g odst. 1, kterým uloží povinnost uvolnit zásoby humánního léčivého přípravku zařazeného do systému rezervních zásob za účelem distribuce provozovatelům oprávněným k výdeji podle § 82 odst. 2,*
+>
+> *- v) vydává opatření obecné povahy podle § 112c, kterým může při ohrožení dostupnosti léčivého přípravku významného pro poskytování zdravotních služeb upravit podmínky pro jeho distribuci, předepisování a výdej.*
 
 **Výklad:**
 
@@ -825,17 +947,17 @@ Důležitá kompetenční doložka — Veterinární ústav kontroluje použití
 
 > **§ 20**
 >
-> **Obecné předpoklady**
->
 > *(1) Zacházet s léčivy podle § 5 odst. 1 mohou pouze osoby starší 18 let, způsobilé k právním jednáním, bezúhonné, zdravotně a odborně způsobilé pro konkrétní druh činnosti.*
 >
-> *(2) Podmínka dovršení 18 let podle odstavce 1 se nevztahuje na osoby, které zacházejí s léčivy při výuce nebo při zaškolování pod odborným dohledem.*
+> *(2) Podmínka dovršení 18 let podle odstavce 1 se nevztahuje na osoby, které zacházejí s léčivy při výuce nebo při zaškolování pod odborným dohledem29).*
 >
-> *(3) Za bezúhonnou pro zacházení s humánními léčivy se považuje fyzická osoba splňující podmínky bezúhonnosti podle zvláštního právního předpisu. Pro zacházení s veterinárními léčivy […] se za bezúhonnou považuje fyzická osoba splňující podmínky bezúhonnosti podle veterinárního zákona. […]*
+> *(3) Za bezúhonnou pro zacházení s humánními léčivy se považuje fyzická osoba splňující podmínky bezúhonnosti podle zvláštního právního předpisu29). Pro zacházení s veterinárními léčivy, s výjimkou zacházení v lékárnách, pro které platí podmínky podle věty první, se za bezúhonnou považuje fyzická osoba splňující podmínky bezúhonnosti podle veterinárního zákona. V případě, že se fyzická osoba zdržovala v posledních 3 letech nepřetržitě déle než 6 měsíců v zahraničí, prokazuje bezúhonnost též doklady prokazujícími splnění podmínky bezúhonnosti vydanými státy, ve kterých se fyzická osoba zdržovala. Při uznání dokladu bezúhonnosti, který vydal příslušný orgán jiného členského státu, se postupuje podle zvláštního právního předpisu30).*
 >
-> *(4) Ústav nebo Veterinární ústav si za účelem prokázání bezúhonnosti podle odstavce 3 vyžádá podle zvláštního právního předpisu výpis z evidence Rejstříku trestů. […]*
+> *(4) Ústav nebo Veterinární ústav si za účelem prokázání bezúhonnosti podle odstavce 3 vyžádá podle zvláštního právního předpisu30a) výpis z evidence Rejstříku trestů. Žádost o vydání výpisu z evidence Rejstříku trestů a výpis z evidence Rejstříku trestů se předávají v elektronické podobě způsobem umožňujícím dálkový přístup. Splnění podmínky bezúhonnosti se dále prokazuje předložením dokladu odpovídajícímu výpisu z evidence Rejstříku trestů vydaného státem, jehož je fyzická osoba občanem, jakož i odpovídajícími doklady vydanými státy, na jejichž území se fyzická osoba v posledních 3 letech zdržovala nepřetržitě déle než 6 měsíců. Cizinec, který je nebo byl státním občanem jiného členského státu Evropské unie, nebo má nebo měl adresu bydliště v jiném členském státě Evropské unie, může místo výpisu z evidence obdobné Rejstříku trestů doložit bezúhonnost výpisem z Rejstříku trestů s přílohou obsahující informace, které jsou zapsané v evidenci trestů jiného členského státu Evropské unie124). Výpis z evidence Rejstříku trestů a doklady dokládající bezúhonnost fyzické osoby nesmí být starší než 3 měsíce.*
 >
-> *(5) Pokud se v dalších ustanoveních tohoto zákona nestanoví jinak, právní předpisy o způsobilosti zdravotnických pracovníků a jiných odborných pracovníků a o způsobilosti k poskytování veterinární péče nejsou tímto zákonem dotčeny.*
+> *(5) Pokud se v dalších ustanoveních tohoto zákona nestanoví jinak, právní předpisy o způsobilosti zdravotnických pracovníků a jiných odborných pracovníků29) a o způsobilosti k poskytování veterinární péče19) nejsou tímto zákonem dotčeny.*
+>
+> *Odborné předpoklady*
 
 **Výklad:**
 
@@ -863,17 +985,17 @@ Zákon stanoví **čtyři obecné předpoklady** pro zacházení s léčivy: vě
 >
 > *(1) Provozovatel je povinen*
 >
-> *- a) při zacházení s léčivy používat postupy a dodržovat požadavky Evropského lékopisu a Českého lékopisu, dodržovat komunitární monografie léčivých rostlin, pokyny Komise a agentury a pokyny držitele rozhodnutí o registraci léčivého přípravku stanovené v souladu s tímto rozhodnutím,*
+> *- a) při zacházení s léčivy používat postupy a dodržovat požadavky Evropského lékopisu4) a Českého lékopisu, dodržovat komunitární monografie léčivých rostlin, pokyny Komise a agentury a pokyny držitele rozhodnutí o registraci léčivého přípravku stanovené v souladu s tímto rozhodnutím,*
 >
-> *- b) při výskytu nežádoucího účinku léčivého přípravku nebo závady v jakosti léčiva nebo pomocné látky vyhodnotit jejich závažnost a v případě potřeby provést veškerá dostupná opatření směřující k zajištění nápravy […] včetně jejich případného stažení z oběhu; přijatá opatření neprodleně oznámit Ústavu nebo Veterinárnímu ústavu, pokud se jedná o závady v jakosti nebo závažný nebo neočekávaný nežádoucí účinek,*
+> *- b) při výskytu nežádoucího účinku léčivého přípravku nebo závady v jakosti léčiva nebo pomocné látky vyhodnotit jejich závažnost a v případě potřeby provést veškerá dostupná opatření směřující k zajištění nápravy a k omezení nepříznivého působení léčiva nebo pomocné látky na nejnižší možnou míru, včetně jejich případného stažení z oběhu; přijatá opatření neprodleně oznámit Ústavu nebo Veterinárnímu ústavu, pokud se jedná o závady v jakosti nebo závažný nebo neočekávaný nežádoucí účinek,*
 >
-> *- c) neprodleně oznámit Ústavu, jde-li o humánní léčivo, anebo Veterinárnímu ústavu, jde-li o veterinární léčivo, podezření z výskytu závady v jakosti léčiva nebo pomocné látky […]*
+> *- c) neprodleně oznámit Ústavu, jde-li o humánní léčivo, anebo Veterinárnímu ústavu, jde-li o veterinární léčivo, podezření z výskytu závady v jakosti léčiva nebo pomocné látky, které vedou ke stažení léčiva nebo pomocné látky z oběhu,*
 >
-> *- d) poskytovat Ústavu nebo Veterinárnímu ústavu podle jejich požadavků bezúplatně podklady a informace […]*
+> *- d) poskytovat Ústavu nebo Veterinárnímu ústavu podle jejich požadavků bezúplatně podklady a informace potřebné pro plnění jejich úkolů podle § 13 odst. 3 písm. b) a § 16 odst. 3 písm. b) a v případě potřeby ověření jakosti léčivého přípravku jeho vzorek; tato povinnost se nevztahuje na humánní transfuzní přípravky ani na veterinární transfuzní přípravky,*
 >
-> *- e) provést veškerá opatření potřebná ke stažení léčivého přípravku z trhu, v případě, že držitel rozhodnutí o registraci přijme […] opatření spočívající ve stažení tohoto přípravku […]*
+> *- e) provést veškerá opatření potřebná ke stažení léčivého přípravku z trhu, v případě, že držitel rozhodnutí o registraci přijme při výskytu nežádoucího účinku nebo závady v jakosti léčivého přípravku, léčivé látky nebo pomocné látky opatření spočívající ve stažení tohoto přípravku, a to v rozsahu a způsobem, který držitel rozhodnutí o registraci provozovateli sdělí; při přijímání a provádění těchto opatření nejsou dotčena ustanovení zákona o bezpečnosti výrobků, provozovatel však přitom, jde-li o humánní léčivý přípravek, musí postupovat v souladu s hodnocením míry nebezpečí podle § 13 odst. 2 písm. k), bylo-li takové hodnocení Ústavem provedeno a uveřejněno,*
 >
-> *- f) neprodleně oznámit Ústavu, jde-li o humánní léčivý přípravek, podezření na padělaný léčivý přípravek […]*
+> *- f) neprodleně oznámit Ústavu, jde-li o humánní léčivý přípravek, podezření na padělaný léčivý přípravek, nevyplývá-li tato jeho povinnost z nařízení o ochranných prvcích,*
 >
 > *- g) poskytnout Ústavu součinnost při ověřování skutečností souvisejících s podezřením na padělání léčivého přípravku,*
 >
@@ -882,14 +1004,48 @@ Zákon stanoví **čtyři obecné předpoklady** pro zacházení s léčivy: vě
 > *(2) Provozovatel nesmí uvádět na trh a do oběhu nebo používat při poskytování zdravotních služeb nebo veterinární péče léčiva*
 >
 > *- a) s prošlou dobou použitelnosti,*
+>
 > *- b) se závadou v jakosti, pokud Ústav nevydal rozhodnutí podle § 13 odst. 2 písm. m), nebo*
+>
 > *- c) o nichž tak rozhodl Ústav nebo Veterinární ústav.*
 >
-> *(3) Provozovatel […] je oprávněn při provádění ochrany léčiv kontrolovat v objektech […] osoby, které vstupují nebo vystupují z těchto objektů, jejich zavazadla a dopravní prostředky […]*
+> *(3) Provozovatel, s výjimkou prodejce vyhrazených léčivých přípravků, je oprávněn při provádění ochrany léčiv kontrolovat v objektech, které používá pro výrobu, přípravu, úpravu, kontrolu nebo distribuci léčiv, osoby, které vstupují nebo vystupují z těchto objektů, jejich zavazadla a dopravní prostředky vjíždějící do těchto objektů nebo z nich vyjíždějící. Tyto osoby jsou povinny prohlídky strpět.*
 >
-> *(4) Prodejce vyhrazených léčivých přípravků je povinen [a–h: osvědčení o odborné způsobilosti, dodržování správné praxe, ohlášení činnosti, prodej pouze vyhrazených LP, vyřazení vadných LP, předání nepoužitelných LP k odstranění, nákup pouze od distributorů/výrobců, vedení evidence, podmínky zásilkového prodeje pro veterinární LP]*
+> *(4) Prodejce vyhrazených léčivých přípravků je povinen*
 >
-> *[…]*
+> *- a) zajistit, aby každá fyzická osoba prodávající vyhrazené léčivé přípravky získala osvědčení o odborné způsobilosti prodejce vyhrazených léčivých přípravků, a to pro humánní léčivé přípravky nebo pro veterinární léčivé přípravky; jde-li o humánní léčivé přípravky, nevyžaduje se získání osvědčení o odborné způsobilosti prodejce vyhrazených léčivých přípravků u farmaceutů a farmaceutických asistentů29), jde-li o veterinární léčivé přípravky, může osvědčení o odborné způsobilosti prodejce vyhrazených léčivých přípravků nahradit doklad o ukončení studia v akreditovaném zdravotnickém magisterském studijním programu farmacie podle zákona o podmínkách získávání a uznávání odborné a specializované způsobilosti, nebo akreditovaném magisterském studijním programu veterinární lékařství nebo akreditovaném magisterském studijním programu veterinární hygiena a ekologie,*
+>
+> *- b) dodržovat pravidla správné praxe prodejců vyhrazených léčivých přípravků a nejpozději do 15 dnů oznámit Ústavu nebo Veterinárnímu ústavu zahájení činnosti a adresu místa podnikání nebo sídla a adresu provozovny, popřípadě ukončení činnosti,*
+>
+> *- c) prodávat pouze vyhrazené léčivé přípravky,*
+>
+> *- d) vyřadit z prodeje vyhrazené léčivé přípravky, jestliže*
+>
+> *  - 1. byl upozorněn na jejich závadu; o této skutečnosti neprodleně informovat Ústav nebo Veterinární ústav, zaslat Ústavu nebo Veterinárnímu ústavu vzorek takového léčivého přípravku a dále postupovat podle pokynů příslušného ústavu,*
+>
+> *  - 2. uplynula doba jejich použitelnosti,*
+>
+> *  - 3. byla porušena celistvost jejich vnějšího nebo vnitřního obalu,*
+>
+> *  - 4. chybí, popřípadě není čitelné označení jejich obalu,*
+>
+> *  - 5. nebyly dodrženy podmínky, za nichž mají být tyto léčivé přípravky skladovány, nebo*
+>
+> *  - 6. tak rozhodl Ústav nebo Veterinární ústav podle § 13 odst. 2 písm. c) nebo d) nebo e) nebo podle § 16 odst. 2 písm. c) nebo d) nebo v rámci řízení o změně registrace podle § 35,*
+>
+> *- e) předat nepoužitelný vyhrazený léčivý přípravek k odstranění podle § 88 a 89 v souladu se zvláštními právními předpisy34),*
+>
+> *- f) nakupovat vyhrazené léčivé přípravky pouze od distributorů nebo výrobců těchto léčivých přípravků,*
+>
+> *- g) vést úplnou a průkaznou evidenci skladových zásob, nákupu a prodeje vyhrazených léčivých přípravků po jednotlivých položkách umožňující rozlišit lékovou formu, množství léčivé látky obsažené v jednotce hmotnosti, objemu nebo lékové formy, typ obalu a velikost balení léčivého přípravku, včetně kódu léčivého přípravku, a uchovávat tuto evidenci spolu s doklady o nákupu, skladování a prodeji vyhrazených léčivých přípravků po dobu 5 let a*
+>
+> *- h) jde-li o vyhrazené veterinární léčivé přípravky, jejichž prodej se provádí na základě objednávek zásilkovým způsobem, dále plnit podmínky podle § 84 až 86 obdobně.*
+>
+> *(5) Prováděcí právní předpis stanoví obsah, počet vyučovacích hodin a způsob vedení odborného kurzu prodejců vyhrazených léčivých přípravků a pravidla správné praxe prodejců vyhrazených léčivých přípravků.*
+>
+> *(6) Provozovatelé provádějící neklinické studie bezpečnosti léčiv jsou povinni dodržovat pravidla správné laboratorní praxe podle § 6 odst. 4; pravidla správné laboratorní praxe stanoví prováděcí právní předpis. Při provádění neklinických studií bezpečnosti musí provozovatelé postupovat v souladu se zvláštními právními předpisy35).*
+>
+> *(7) Zacházet s léčivy, předepisovat je, vést záznamy a vykonávat další odborné činnosti při poskytování veterinární péče upravené tímto zákonem smí provozovatel uvedený v § 6 odst. 1 písm. d) výhradně jako veterinární lékař nebo jeho prostřednictvím, přičemž v takovém případě je tento provozovatel povinen veterinárního lékaře písemně stanovit a vybavit jej potřebnými prostředky a oprávněními k samostatnému výkonu odborné činnosti. Záznamy o použití, předepsání nebo výdeji léčivých přípravků pořízené veterinárním lékařem je provozovatel povinen uchovávat v souladu s požadavky nařízení o veterinárních léčivých přípravcích a tohoto zákona a na vyžádání je předkládat ke kontrole.*
 
 **Výklad:**
 
@@ -931,19 +1087,61 @@ Osmidílný katalog povinností (písm. a–h):
 
 > **§ 24**
 >
-> **Povinnosti při odběru, vyšetření, zpracování, skladování, výdeji, distribuci a dovozu ze třetí země nebo vývozu do třetí země lidské krve, jejích složek, surovin pro další výrobu a humánních transfuzních přípravků**
+> *(1) Držitelé rozhodnutí o registraci léčivého přípravku, který obsahuje suroviny z lidské krve nebo jejích složek nebo při jehož výrobě byly takové suroviny použity, a provozovatelé*
 >
-> *(1) Držitelé rozhodnutí o registraci léčivého přípravku, který obsahuje suroviny z lidské krve nebo jejích složek […] a provozovatelé [a, b — výroba a používání transfuzních přípravků/surovin pro další výrobu], zajišťují při odběru, vyšetření, zpracování, skladování, distribuci a dovozu ze třetí země nebo vývozu do třetí země v případě lidské krve, jejích složek, surovin pro další výrobu a humánních transfuzních přípravků dodržování jakosti a bezpečnosti podle § 67.*
+> *- a) podílející se na výrobě humánních transfuzních přípravků a surovin pro další výrobu, včetně jejich výroby pro klinické hodnocení,*
 >
-> *(2) Osoby podle odstavce 1, osoby vydávající humánní transfuzní přípravky a osoby poskytující zdravotní služby vedou v rozsahu a způsobem stanoveným prováděcím právním předpisem záznamy zajišťující sledovatelnost humánních transfuzních přípravků od dárce k příjemci a naopak a surovin pro další výrobu od dárce k výrobci a naopak […]; tyto záznamy se uchovávají alespoň po dobu 30 let […]*
+> *- b) používající při výrobě nebo přípravě léčivých přípravků nebo dovážející ze třetích zemí pro výrobu léčivých přípravků nebo distribuující lidskou krev, její složky či suroviny pro další výrobu,*
 >
-> *(3) Osoby podle odstavce 2 jsou v případě zjištění závažné nežádoucí reakce nebo závažné nežádoucí události nebo podezření na ně povinny [a) provést nápravná opatření, b) oznámit Ústavu, c) vést a zpřístupnit dokumentaci, d) vypracovat zprávu] […]*
+> *zajišťují při odběru, vyšetření, zpracování, skladování, distribuci a dovozu ze třetí země nebo vývozu do třetí země v případě lidské krve, jejích složek, surovin pro další výrobu a humánních transfuzních přípravků dodržování jakosti a bezpečnosti podle § 67.*
 >
-> *(4) Humánní transfuzní přípravky nebo surovinu pro další výrobu mohou provozovatelé […] dovážet ze třetí země, vyvážet do třetí země nebo distribuovat mezi Českou republikou a jiným členským státem pouze s předchozím souhlasem Ministerstva zdravotnictví, nejedná-li se o celní režim tranzitu. […]*
+> *(2) Osoby podle odstavce 1, osoby vydávající humánní transfuzní přípravky a osoby poskytující zdravotní služby vedou v rozsahu a způsobem stanoveným prováděcím právním předpisem záznamy zajišťující sledovatelnost humánních transfuzních přípravků od dárce k příjemci a naopak a surovin pro další výrobu od dárce k výrobci a naopak, včetně údajů o nepoužitých humánních transfuzních přípravcích a surovinách pro další výrobu; tyto záznamy se uchovávají alespoň po dobu 30 let a jsou na vyžádání přístupné výrobci humánního transfuzního přípravku nebo suroviny pro další výrobu. Tyto osoby jsou povinny zajistit záznamy tak, aby byly po celou tuto dobu chráněny před neoprávněným nahlížením nebo jiným neoprávněným nakládáním a ztrátou, a to tak, aby tato povinnost byla splněna i po případném zániku těchto osob.*
 >
-> *(5) Ministerstvo zdravotnictví souhlas podle odstavce 4 nevydá, jestliže [a–f: výroba v rozporu se zákonem, upřednostnění vývozu před distribucí v EU, dostatek tuzemských zásob, ohrožení soběstačnosti, jiné než dobrovolné neplacené dárcovství, ohrožení zdraví/života osob na území ČR]*
+> *(3) Osoby podle odstavce 2 jsou v případě zjištění závažné nežádoucí reakce nebo závažné nežádoucí události nebo podezření na ně povinny*
 >
-> *[…]*
+> *- a) provést veškerá dostupná opatření směřující k zajištění nápravy a k omezení nepříznivého působení na nejnižší možnou míru,*
+>
+> *- b) neprodleně oznámit takové zjištění nebo podezření v rozsahu a způsobem stanoveným prováděcím právním předpisem Ústavu a osobám, které se budou podílet na řešení,*
+>
+> *- c) vést a zpřístupnit dokumentaci týkající se takového zjištění nebo podezření, včetně dokumentace obsahující osobní údaje36),*
+>
+> *- d) vypracovat o takovém zjištění nebo podezření zprávu a poskytnout ji Ústavu a osobám, kterých se případ týká.*
+>
+> *Pro zajištění těchto povinností zavedou osoby podle odstavce 2 postup pro sledování a řešení závažných nežádoucích reakcí a závažných nežádoucích událostí nebo podezření na takové reakce a události. Zařízení transfuzní služby a krevní banky předají Ústavu za každý kalendářní rok zprávu shrnující údaje podle tohoto odstavce a odstavce 2. Prováděcí právní předpis stanoví pravidla a rozsah postupu pro sledování a řešení závažných nežádoucích reakcí, závažných nežádoucích událostí nebo podezření na takové reakce a události a obsah a lhůty předávání zpráv a údajů Ústavu o těchto událostech.*
+>
+> *(4) Humánní transfuzní přípravky nebo surovinu pro další výrobu mohou provozovatelé uvedení v odstavci 1 dovážet ze třetí země, vyvážet do třetí země nebo distribuovat mezi Českou republikou a jiným členským státem pouze s předchozím souhlasem Ministerstva zdravotnictví, nejedná-li se o celní režim tranzitu. Souhlas se vydává na dobu určitou; žádost o vydání souhlasu musí obsahovat údaje o žadateli, dále údaje upřesňující předmět žádosti a její odůvodnění; rozsah údajů stanoví prováděcí právní předpis.*
+>
+> *(5) Ministerstvo zdravotnictví souhlas podle odstavce 4 nevydá, jestliže*
+>
+> *- a) takový dovoz ze třetí země nebo vývoz do třetí země nebo taková distribuce se týkají humánních transfuzních přípravků nebo suroviny pro další výrobu, které byly vyrobeny v rozporu s ustanoveními tohoto zákona a mohou ohrozit zdraví a životy lidí,*
+>
+> *- b) vývoz do třetí země nebo dovoz ze třetí země je upřednostněn před distribucí v rámci Evropské unie,*
+>
+> *- c) v případě dovozu je pro potřeby zdravotních služeb k dispozici dostatečné množství humánních transfuzních přípravků vyhovujících tomuto zákonu, které jsou vyrobeny z odběrů dárců v České republice,*
+>
+> *- d) vývozem do třetí země nebo distribucí z České republiky do jiného členského státu by byla ohrožena soběstačnost České republiky ve vztahu k zajištění hemoterapie,*
+>
+> *- e) takový dovoz ze třetí země nebo vývoz do třetí země nebo taková distribuce humánních transfuzních přípravků nebo suroviny pro další výrobu by měl být uskutečněn z odběrů jiných než od dobrovolných bezplatných dárců krve s výjimkou povolení pro vývoz plazmy s obsahem anti-D protilátek; za bezplatného dárce krve se považuje i dárce, jemuž byla poskytnuta úhrada podle ustanovení o léčbě krví nebo jejími složkami zákona o specifických zdravotních službách37a), nebo*
+>
+> *- f) jeho vydáním by mohlo dojít k ohrožení života nebo zdraví osob nacházejících se na území České republiky.*
+>
+> *(6) Ministerstvo zdravotnictví souhlas podle odstavce 4 odebere, jestliže*
+>
+> *- a) souhlas byl vydán na základě nepravdivých nebo neúplných údajů,*
+>
+> *- b) nejsou dodrženy podmínky vydaného souhlasu,*
+>
+> *- c) uskutečnění dovozu ze třetí země nebo vývozu do třetí země vede k ohrožení zdraví a života lidí, nebo*
+>
+> *- d) provozovatel, jemuž byl souhlas vydán, porušil závažným způsobem povinnosti provozovatele stanovené tímto zákonem.*
+>
+> *(7) Ministerstvo zdravotnictví může odebrat souhlas podle odstavce 4 v případě, že provozovatel, jemuž byl souhlas udělen, nepostupoval v souladu se souhlasem jemu uděleným na předchozí období.*
+>
+> *(8) Provozovatel, kterému byl udělen souhlas podle odstavce 4, informuje Ministerstvo zdravotnictví o uskutečněném dovozu ze třetích zemí nebo vývozu do třetích zemí nebo distribuci v rámci Evropské unie, a to do 10 dnů po ukončení platnosti uděleného souhlasu. Prováděcí právní předpis stanoví způsob poskytnutí této informace a její obsah.*
+>
+> *(9) Provozovatel podle odstavce 1 může uskutečnit distribuci humánního transfuzního přípravku mezi Českou republikou a jiným členským státem, dovoz humánního transfuzního přípravku ze třetí země nebo uskutečnit vývoz humánního transfuzního přípravku do třetí země, aniž by předem získal souhlas podle odstavce 4, případně poskytovatel zdravotních služeb9) může zajistit humánní transfuzní přípravek z členského státu, jestliže je to odůvodněno naléhavou a neodkladnou potřebou zajištění humánního transfuzního přípravku pro poskytnutí zdravotních služeb jednotlivým pacientům. V takovém případě provozovatel, který humánní transfuzní přípravek dovezl nebo vyvezl, případně poskytovatel zdravotních služeb, který jej zajistil, informuje o této skutečnosti Ministerstvo zdravotnictví nejpozději do 15 dnů. Prováděcí právní předpis stanoví způsob poskytnutí této informace a její obsah.*
+>
+> *(10) Provozovatel, kterému byl udělen souhlas podle odstavce 4, je povinen při uskutečnění dovozu nebo vývozu s výjimkou celního režimu tranzitu předložit tento souhlas v rámci celního řízení příslušnému celnímu úřadu.*
 
 **Výklad:**
 
